@@ -417,12 +417,6 @@ time: 0
 date: 10/03/2024 00:55
 
 @vip
-name: luffyneko
-tier: 7
-time: 31
-date: 23/05/2024 22:00
-
-@vip
 name: pammsitoo
 tier: 4
 time: 45
@@ -477,6 +471,11 @@ name: FireChan太陽
 tier: 6
 time: 0
 date: 10/03/2024 00:39
+@vip
+name: Calamity_miau
+tier: 6
+time: 0
+date: 10/03/2024 00:39
 
 @vip
 name: Ultra_thegod
@@ -528,16 +527,6 @@ name: Parzival_ZTR
 tier: 5
 time: 0
 date: 26/03/2024 15:50
-@vip
-name: ReikoSaori
-tier: 5
-time: 31
-date: 16/05/2024 02:23
-@vip
-name: Nuimiku
-tier: 5
-time: 31
-date: 16/05/2024 02:23
 
 @vip
 name: Chyruu
@@ -564,7 +553,7 @@ date: 09/03/2024 20:45
 @vip
 name: Leemoncita
 tier: 4
-time: 45
+time: 0
 date: 18/05/2024 22:18
 @vip
 name: Yariimarie
@@ -655,27 +644,6 @@ time: 0
 date: 15/05/2024 21:17
 
 @vip
-name: nazuru
-tier: 4
-time: 45
-date: 18/05/2024 22:14
-@vip
-name: Thedevilfingers
-tier: 4
-time: 45
-date: 18/05/2024 22:14
-@vip
-name: Sopitadelloros
-tier: 3
-time: 45
-date: 18/05/2024 22:14
-@vip
-name: Xx_Kai_x
-tier: 4
-time: 45
-date: 18/05/2024 22:14
-
-@vip
 name: CommanderChuy
 tier: 5
 time: 48
@@ -684,17 +652,6 @@ date: 18/05/2024 22:14
 name: Wooser
 tier: 5
 time: 48
-date: 18/05/2024 22:14
-
-@vip
-name: Calamity_miau
-tier: 5
-time: 45
-date: 18/05/2024 22:14
-@vip
-name: Ɓrazalete
-tier: 5
-time: 45
 date: 18/05/2024 22:14
 
 @vip
@@ -707,17 +664,6 @@ name: frankBella f8c5
 tier: 5
 time: 60
 date: 29/05/2024 06:09
-
-@vip
-name: PAPA FR¡TA
-tier: 5
-time: 45
-date: 20/05/2024 10:52
-@vip
-name: jazita
-tier: 5
-time: 45
-date: 20/05/2024 10:52
 
 @vip
 name: CamilaNessa
@@ -870,11 +816,6 @@ tier: 6
 time: 0
 date: 03/06/2024 10:30
 
-@vip
-name: Alicred
-tier: 3
-time: 31
-date: 03/06/2024 06:08
 @vip
 name: ღღAstridღღ
 tier: 4
@@ -1441,7 +1382,7 @@ date: 29/06/2024 21:27
 
 @vip
 name: Haku--
-tier: 3
+tier: 4
 time: 7
 date: 29/06/2024 21:27
 
