@@ -103,11 +103,13 @@ name: FranciscoDeku
 tier: 5
 time: 0
 date: 04/03/2024 12:00
+
 @vip
 name: _PetroleroVT_
 tier: 2
 time: 0
 date: 23/12/2023 12:00
+
 @vip
 name: November_War
 tier: 4
@@ -148,6 +150,12 @@ name: Starky4Z
 tier: 6
 time: 0
 date: 13/03/2024 17:00
+@vip
+name: ＤＩＯＳＡ
+tier: 8
+time: 0
+date: 12/07/1994 17:30
+
 @vip
 name: Ataky
 tier: 9
