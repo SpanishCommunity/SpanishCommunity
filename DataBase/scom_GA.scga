@@ -1,4 +1,5 @@
-enableAd: false
-adMessage: <color=#FFFFFF> Buenas a todos, este es un comunicado, para avisarles que la instancia oficial nº22906 fue cerrada, te invitamos a unirte a la nueva instancia nº93107, Gracias.
-sendDate: 13/08/2024 12:59 -05:00
-displayTime: 60
+enableAd: true
+adMessage: <color=#FFFFFF> Este es un comunicado para avisarles que la instancia Nº09152 "La mancion de los darling" va a ser cerrada. Les recomendamos entrar a la instancia oficial del Spanish Community para una mejor experiencia, gracias.
+sendDate: 26/08/2024 10:46 -05:00
+displayTime: 30
+
