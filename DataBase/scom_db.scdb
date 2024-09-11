@@ -1669,11 +1669,6 @@ tier: 5
 time: 0
 date: 03/09/2024 09:00
 @vip
-name: Loysss
-tier: 5
-time: 0
-date: 03/09/2024 09:00
-@vip
 name: Wachiming0
 tier: 5
 time: 0
@@ -1728,11 +1723,6 @@ name: silver498
 tier: 8
 time: 31
 date: 02/09/2024 15:30
-@vip
-name: TanyaDegu
-tier: 7
-time: 5
-date: 03/09/2024 03:00
 @vip
 name: severeplot
 tier: 7
@@ -1873,3 +1863,8 @@ name: PhanTom´VR
 tier: 9
 time: 0
 date: 05/09/2024 10:00
+@vip
+name: TanyaDegu
+tier: 5
+time: 31
+date: 11/09/2024 10:30
