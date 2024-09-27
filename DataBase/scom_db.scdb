@@ -1680,9 +1680,14 @@ time: 0
 date: 05/09/2024 10:00
 @vip
 name: TanyaDegu
-tier: 5
+tier: 8
 time: 31
-date: 11/09/2024 10:30
+date: 27/09/2024 00:00
+@vip
+name: D LUXE
+tier: 8
+time: 31
+date: 27/09/2024 00:00
 @vip
 name: Meltroy
 tier: 7
