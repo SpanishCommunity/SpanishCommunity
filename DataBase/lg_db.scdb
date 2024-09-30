@@ -1,8 +1,17 @@
 @user
 name: user01
 tier: 2
-days: 30
+days: 0
 date: 03/12/24 01:45
 friends: friend01, friend02
 refered: -
 contact: patreonuser, discordname, user01@gmail.com
+
+@user
+name: user02
+tier: 2
+days: 30
+date: 04/12/24 03:45
+friends: puto_maestro_666, el_coño_de_tu_madre_69
+refered: -
+contact: patreonuser2, discordname2, user02@gmail.com
