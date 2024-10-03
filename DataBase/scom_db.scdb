@@ -609,13 +609,8 @@ tier: 8
 time: 0
 date: 25/05/2024 08:05
 @vip
-name: 『 Lynsy 』
-tier: 8
-time: 0
-date: 26/05/2024 00:05
-@vip
-name: 『 Skayler 』
-tier: 8
+name: Vykiii
+tier: 9
 time: 0
 date: 26/05/2024 00:05
 @vip
@@ -1039,11 +1034,6 @@ tier: 8
 time: 0
 date: 06/07/2024 08:03
 @vip
-name: Sirsha
-tier: 8
-time: 0
-date: 06/07/2024 08:03
-@vip
 name: Gegelejandro
 tier: 11
 time: 0
@@ -1434,21 +1424,6 @@ tier: 11
 time: 0
 date: 25/08/2024 14:00
 @vip
-name: Kyomi-Lizth
-tier: 11
-time: 0
-date: 25/08/2024 14:00
-@vip
-name: Brenda~
-tier: 11
-time: 0
-date: 25/08/2024 14:00
-@vip
-name: ღevaalunaaღ
-tier: 9
-time: 31
-date: 25/08/2024 14:00
-@vip
 name: LexVT_
 tier: 9
 time: 0
@@ -1490,12 +1465,22 @@ time: 0
 date: 30/08/2024 22:30
 @vip
 name: Natsux
-tier: 8
+tier: 10
 time: 0
 date: 03/09/2024 09:00
 @vip
 name: edward05275
-tier: 8
+tier: 9
+time: 0
+date: 03/09/2024 09:00
+@vip
+name: KurocaynTH
+tier: 9
+time: 0
+date: 03/09/2024 09:00
+@vip
+name: SrChuuni
+tier: 9
 time: 0
 date: 03/09/2024 09:00
 @vip
@@ -1539,14 +1524,14 @@ tier: 8
 time: 31
 date: 02/09/2024 15:00
 @vip
-name: TurioVR
+name: Turio
 tier: 9
-time: 31
+time: 0
 date: 02/09/2024 15:30
 @vip
 name: AwakatikoUwu
 tier: 9
-time: 31
+time: 0
 date: 02/09/2024 15:30
 @vip
 name: silver498
@@ -2019,6 +2004,11 @@ tier: 9
 time: 0
 date: 29/09/2024 16:00
 @vip
+name: Salamandha
+tier: 9
+time: 0
+date: 29/09/2024 16:00
+@vip
 name: lucyedgerunners
 tier: 9
 time: 0
@@ -2083,3 +2073,8 @@ name: MrM3nny
 tier: 3
 time: 0
 date: 01/10/2024 15:30
+@vip
+name: Kobecchi
+tier: 5
+time: 31
+date: 02/10/2024 16:00
