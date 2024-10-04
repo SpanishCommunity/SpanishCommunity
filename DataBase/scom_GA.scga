@@ -1,5 +1,4 @@
-enableAd: true
-adMessage: <color=#FFFFFF> Aviso Leemoncita es verde si la ve chupenle como un limon
-sendDate: 29/09/2024 22:27 -05:00
+enableAd: false
+adMessage: <color=#FFFFFF> Aviso Leemoncita es verde si la ve chupenle como un limon </color>
+sendDate: 04/10/2024 17:30 -05:00
 displayTime: 45
-
