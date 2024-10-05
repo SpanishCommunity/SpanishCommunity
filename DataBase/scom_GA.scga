@@ -1,4 +1,4 @@
-enableAd: false
-adMessage: <color=#FFFFFF> Aviso Leemoncita es verde si la ve chupenle como un limon </color>
-sendDate: 04/10/2024 17:30 -05:00
+enableAd: true
+adMessage: <color=#FFFFFF> Aviso Importante el mapa ah sido actulizado le recomendamos a todos los grupos crear nuevas instancias ya que estara super desincronizadas y algunas cosas no se veran o fallaran le recomendamos a todos crear nuevas instancias </color>
+sendDate: 04/10/2024 19:20 -05:00
 displayTime: 45
