@@ -1,4 +1,4 @@
-enableAd: true
-adMessage: <color=#FFFFFF> Aviso Importante el mapa ah sido actulizado le recomendamos a todos los grupos crear nuevas instancias ya que estara super desincronizadas y algunas cosas no se veran o fallaran le recomendamos a todos crear nuevas instancias </color>
+enableAd: false
+adMessage: <color=#FFFFFF>  </color>
 sendDate: 04/10/2024 19:20 -05:00
 displayTime: 45
