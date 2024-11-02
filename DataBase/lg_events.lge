@@ -5,4 +5,4 @@ DJTable: false
 mute-audio-in: true
 set-audiolink-in: false
 reload-time: 60
-chroma-color: #f59f00
+chroma-color: #00ff00
