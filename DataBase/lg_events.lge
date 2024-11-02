@@ -2,6 +2,7 @@ use-remote-settings: true
 live-stream: true
 DJPanels: false
 DJTable: false
+mute-audio-in: false
 set-audiolink-in: false
 reload-time: 60
 chroma-color: #000000
