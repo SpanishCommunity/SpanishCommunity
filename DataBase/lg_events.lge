@@ -1,5 +1,5 @@
 use-remote-settings: true
-live-stream: true
-DJPanels: false
-DJTable: false
+live-stream: false
+DJPanels: true
+DJTable: true
 set-audiolink-in: true
