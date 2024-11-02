@@ -1,5 +1,5 @@
 use-remote-settings: true
-live-stream: false
+live-stream: true
 DJPanels: false
 DJTable: false
 mute-audio-in: false
