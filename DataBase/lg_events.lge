@@ -4,3 +4,4 @@ DJPanels: true
 DJTable: true
 set-audiolink-in: true
 reload-time: 60
+chroma-color: #000000
