@@ -1,4 +1,4 @@
-use-remote-settings: true
+use-remote-settings: false
 live-stream: true
 DJPanels: false
 DJTable: false
