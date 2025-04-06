@@ -1,7 +1,12 @@
 enableAd: true
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 adMessage: <color=#ffabf8>El evento de ''Las Gatitas'' ya ah comenzado y se estará sorteando 5 un VIP ELITE ALEATORIO de un MES‚ así que disfruten de nuestros DJ‚ DANCERS‚ CANTANTES Y ARTISTAS․
 sendDate: 05/04/2025 18:55 -05:00
+=======
+adMessage: <color=#ffabf8>El evento de ''Las Gatitas'' ya ha comenzado y se estará sorteando 5 un VIP ELITE ALEATORIO de un MES‚ así que disfruten de nuestros DJ‚ DANCERS‚ CANTANTES Y ARTISTAS․
+sendDate: 06/04/2025 02:03 +02:00
+>>>>>>> Stashed changes
 =======
 adMessage: <color=#ffabf8>El evento de ''Las Gatitas'' ya ha comenzado y se estará sorteando 5 un VIP ELITE ALEATORIO de un MES‚ así que disfruten de nuestros DJ‚ DANCERS‚ CANTANTES Y ARTISTAS․
 sendDate: 06/04/2025 02:03 +02:00
