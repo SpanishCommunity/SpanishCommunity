@@ -1,9 +1,4 @@
 enableAd: true
-<<<<<<< HEAD
 adMessage: <color=#ffabf8> ¡Te invitamos al mapa de Las Gatitas en VRChat! Ven a disfrutar de nuestro evento especial con artistas en vivo y descubre nuestras nuevas funciones. ¡No te lo pierdas!
-sendDate: 07/06/2025 00:01 +02:00
-=======
-adMessage: <color=#ffabf8> Evento en Spanish Community! Estamos sorteando 5 VIPS Elites. Entrar a la instancia oficial #01325 y hablar con el owner para mas informacion.
-sendDate: 07/06/2025 16:56 -05:00
->>>>>>> 92b9a86c6cbaaff9ecc95bd623846affb975667d
+sendDate: 08/06/2025 00:30 +02:00
 displayTime: 50
