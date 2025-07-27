@@ -1,0 +1,26 @@
+{
+  "JohnDoe": {
+    "StartDate": "25/07/2025 12:00 -0500",
+    "DurationDays": 30,
+    "Heirs": ["JaneFriend", "CarlosBuddy"],
+    "Role": "VIP"
+  },
+  "NightGuard": {
+    "StartDate": "20/07/2025 00:00 -0500",
+    "DurationDays": -1,
+    "Heirs": [],
+    "Role": "Security"
+  },
+  "DJMax": {
+    "StartDate": "24/07/2025 18:00 -0500",
+    "DurationDays": 7,
+    "Heirs": [],
+    "Role": "DJ"
+  },
+  "WorldOwner": {
+    "StartDate": "01/01/2025 00:00 -0500",
+    "DurationDays": -1,
+    "Heirs": ["BackupAdmin"],
+    "Role": "Owner"
+  }
+}
