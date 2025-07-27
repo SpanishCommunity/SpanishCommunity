@@ -1,0 +1,57 @@
+{
+  "Security": {
+    "InheritsFrom": null,
+    "Zones": ["SecurityRoom", "MainHall"],
+    "ZonesStatus": [true, false],
+    "Doors": ["BackDoor"],
+    "DoorsStatus": [true],
+    "Buttons": ["AlarmButton"],
+    "ButtonStatus": [true],
+    "Pickups": ["TaserPickup"],
+    "PickupStatus": [true]
+  },
+  "DJ": {
+    "InheritsFrom": "VIP",
+    "Zones": ["DJBooth"],
+    "ZonesStatus": [true],
+    "Doors": [],
+    "DoorsStatus": [],
+    "Buttons": ["MusicControl"],
+    "ButtonStatus": [true],
+    "Pickups": ["MicrophonePickup"],
+    "PickupStatus": [true]
+  },
+  "VIP": {
+    "InheritsFrom": null,
+    "Zones": ["LoungeArea"],
+    "ZonesStatus": [true],
+    "Doors": ["VIPDoor"],
+    "DoorsStatus": [true],
+    "Buttons": [],
+    "ButtonStatus": [],
+    "Pickups": [],
+    "PickupStatus": []
+  },
+  "Staff": {
+    "InheritsFrom": "Security",
+    "Zones": ["MainHall", "StaffRoom"],
+    "ZonesStatus": [true, true],
+    "Doors": ["MainDoor", "StaffOnlyDoor"],
+    "DoorsStatus": [true, true],
+    "Buttons": ["StaffPanel"],
+    "ButtonStatus": [true],
+    "Pickups": [],
+    "PickupStatus": []
+  },
+  "Owner": {
+    "InheritsFrom": "Staff",
+    "Zones": ["ControlRoom", "StaffRoom", "VIPZone"],
+    "ZonesStatus": [true, true, true],
+    "Doors": ["OwnerDoor"],
+    "DoorsStatus": [true],
+    "Buttons": ["MasterControl", "ResetWorldButton"],
+    "ButtonStatus": [true, true],
+    "Pickups": ["AdminTool"],
+    "PickupStatus": [true]
+  }
+}
