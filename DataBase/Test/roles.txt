@@ -1,0 +1,54 @@
+@Role
+name: Security
+Zones: SecurityRoom, MainHall
+ZonesStatus: true, false
+Doors: BackDoor
+DoorsStatus: true
+Buttons: AlarmButton
+ButtonStatus: true
+Pickups: TaserPickup
+PickupStatus: true
+
+@Role
+name: VIP
+Zones: LoungeArea
+ZonesStatus: true
+Doors: VIPDoor
+DoorsStatus: true
+Buttons:
+ButtonStatus:
+Pickups:
+PickupStatus:
+
+@Role
+name: DJ
+Zones: DJBooth
+ZonesStatus: true
+Doors:
+DoorsStatus:
+Buttons: MusicControl
+ButtonStatus: true
+Pickups: MicrophonePickup
+PickupStatus: true
+
+@Role
+name: Staff
+Zones: MainHall, StaffRoom
+ZonesStatus: true, true
+Doors: MainDoor, StaffOnlyDoor
+DoorsStatus: true, true
+Buttons: StaffPanel
+ButtonStatus: true
+Pickups:
+PickupStatus:
+
+@Role
+name: Owner
+Zones: ControlRoom, StaffRoom, VIPZone
+ZonesStatus: true, true, true
+Doors: OwnerDoor
+DoorsStatus: true
+Buttons: MasterControl, ResetWorldButton
+ButtonStatus: true, true
+Pickups: AdminTool
+PickupStatus: true
