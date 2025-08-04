@@ -17,8 +17,8 @@ Doors: VIPDoor
 DoorsStatus: true
 Buttons:
 ButtonStatus:
-Pickups:
-PickupStatus:
+Pickups: VipPickup1, VipPickup2
+PickupStatus: true, false
 
 @Role
 name: DJ
@@ -39,8 +39,8 @@ Doors: MainDoor, StaffOnlyDoor
 DoorsStatus: true, true
 Buttons: StaffPanel
 ButtonStatus: true
-Pickups:
-PickupStatus:
+Pickups: StaffTool
+PickupStatus: true
 
 @Role
 name: Owner
