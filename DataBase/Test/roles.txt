@@ -68,7 +68,7 @@ Buttons: StaffPanel
 ButtonStatus: true
 Pickups: StaffTool
 PickupStatus: true
-Inherits: VIP+
+Inherits: Partner
 
 @Role
 name: Owner
