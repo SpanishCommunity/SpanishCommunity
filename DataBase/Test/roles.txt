@@ -8,17 +8,7 @@ Buttons: AlarmButton
 ButtonStatus: true
 Pickups: TaserPickup
 PickupStatus: true
-
-@Role
-name: VIP
-Zones: LoungeArea
-ZonesStatus: true
-Doors: VIPDoor
-DoorsStatus: true
-Buttons: VipButton
-ButtonStatus: true
-Pickups: VipPickup1, VipPickup2
-PickupStatus: true, false
+Inherits: 
 
 @Role
 name: DJ
@@ -30,6 +20,31 @@ Buttons: MusicControl
 ButtonStatus: true
 Pickups: MicrophonePickup
 PickupStatus: true
+Inherits: 
+
+@Role
+name: VIP
+Zones: LoungeArea
+ZonesStatus: true
+Doors: VIPDoor
+DoorsStatus: true
+Buttons: VipButton
+ButtonStatus: true
+Pickups: VipPickup1, VipPickup2
+PickupStatus: true, false
+Inherits: 
+
+@Role
+name: VIP+
+Zones: LoungeArea2
+ZonesStatus: true
+Doors: VIPDoor2
+DoorsStatus: true
+Buttons: VipButton2
+ButtonStatus: true
+Pickups: VipPickup3
+PickupStatus: true
+Inherits: VIP
 
 @Role
 name: Staff
@@ -41,6 +56,7 @@ Buttons: StaffPanel
 ButtonStatus: true
 Pickups: StaffTool
 PickupStatus: true
+Inherits: VIP+
 
 @Role
 name: Owner
@@ -52,3 +68,4 @@ Buttons: MasterControl, ResetWorldButton
 ButtonStatus: true, true
 Pickups: AdminTool
 PickupStatus: true
+Inherits: Staff
