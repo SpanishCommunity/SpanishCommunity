@@ -47,6 +47,18 @@ PickupStatus: true
 Inherits: VIP
 
 @Role
+name: Partner
+Zones: PartnerArea
+ZonesStatus: true
+Doors: PartnerDoor
+DoorsStatus: true
+Buttons: PartnerButton
+ButtonStatus: true
+Pickups: PartnerPickup
+PickupStatus: true
+Inherits: VIP+
+
+@Role
 name: Staff
 Zones: MainHall, StaffRoom
 ZonesStatus: true, true
