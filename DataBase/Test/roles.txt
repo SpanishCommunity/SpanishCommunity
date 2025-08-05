@@ -1,6 +1,6 @@
 @Role
 name: Security
-Zones: SecurityRoom, MainHall
+Zones: SecurityRoom
 ZonesStatus: true, false
 Doors: BackDoor
 DoorsStatus: true
@@ -72,8 +72,8 @@ Inherits: VIP+
 
 @Role
 name: Owner
-Zones: ControlRoom, StaffRoom, VIPZone
-ZonesStatus: true, true, true
+Zones: ControlRoom
+ZonesStatus: true
 Doors: OwnerDoor
 DoorsStatus: true
 Buttons: MasterControl, ResetWorldButton
