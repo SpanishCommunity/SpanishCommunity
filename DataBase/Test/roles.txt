@@ -1,83 +1,55 @@
 @Role
 name: Security
 Zones: SecurityRoom
-ZonesStatus: true, false
 Doors: BackDoor
-DoorsStatus: true
 Buttons: AlarmButton
-ButtonStatus: true
 Pickups: TaserPickup
-PickupStatus: true
 Inherits: 
 
 @Role
 name: DJ
 Zones: DJBooth
-ZonesStatus: true
 Doors:
-DoorsStatus:
 Buttons: MusicControl
-ButtonStatus: true
 Pickups: MicrophonePickup
-PickupStatus: true
 Inherits: 
 
 @Role
 name: VIP
 Zones: LoungeArea
-ZonesStatus: true
 Doors: VIPDoor
-DoorsStatus: true
 Buttons: VipButton
-ButtonStatus: true
 Pickups: VipPickup1, VipPickup2
-PickupStatus: true, false
 Inherits: 
 
 @Role
 name: VIP+
 Zones: LoungeArea2
-ZonesStatus: true
 Doors: VIPDoor2
-DoorsStatus: true
 Buttons: VipButton2
-ButtonStatus: true
 Pickups: VipPickup3
-PickupStatus: true
 Inherits: VIP
 
 @Role
 name: Partner
 Zones: PartnerArea
-ZonesStatus: true
 Doors: PartnerDoor
-DoorsStatus: true
 Buttons: PartnerButton
-ButtonStatus: true
 Pickups: PartnerPickup
-PickupStatus: true
 Inherits: VIP+
 
 @Role
 name: Staff
 Zones: MainHall, StaffRoom
-ZonesStatus: true, true
 Doors: MainDoor, StaffOnlyDoor
-DoorsStatus: true, true
 Buttons: StaffPanel
-ButtonStatus: true
 Pickups: StaffTool
-PickupStatus: true
 Inherits: Partner
 
 @Role
 name: Owner
 Zones: ControlRoom
-ZonesStatus: true
 Doors: OwnerDoor
-DoorsStatus: true
 Buttons: MasterControl, ResetWorldButton
-ButtonStatus: true, true
 Pickups: AdminTool
-PickupStatus: true
 Inherits: Staff
