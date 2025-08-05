@@ -10,7 +10,7 @@ name: Tonny Savannah
 date: 21/07/2025 12:00 -5
 days: 0
 heirs:
-role: VIP
+role: Partner
 
 @User
 name: NightGuard
