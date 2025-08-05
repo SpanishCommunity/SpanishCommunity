@@ -16,7 +16,7 @@ Inherits:
 
 @Role
 name: VIP
-Zones: LoungeArea
+Zones: LoungeArea, VIPZone
 Doors: VIPDoor
 Buttons: VipButton
 Pickups: VipPickup1, VipPickup2
