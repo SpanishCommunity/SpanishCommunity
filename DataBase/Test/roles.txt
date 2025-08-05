@@ -15,8 +15,8 @@ Zones: LoungeArea
 ZonesStatus: true
 Doors: VIPDoor
 DoorsStatus: true
-Buttons:
-ButtonStatus:
+Buttons: VipButton
+ButtonStatus: true
 Pickups: VipPickup1, VipPickup2
 PickupStatus: true, false
 
