@@ -1,5 +1,6 @@
 @Role
 name: Security
+color: #2bb8ff
 Zones: SecurityRoom
 Doors: BackDoor
 Buttons: AlarmButton
@@ -8,6 +9,7 @@ Inherits:
 
 @Role
 name: DJ
+color: #792bff
 Zones: DJBooth
 Doors:
 Buttons: MusicControl
@@ -16,6 +18,7 @@ Inherits:
 
 @Role
 name: VIP
+color: #47f0ff
 Zones: LoungeArea, VIPZone
 Doors: VIPDoor
 Buttons: VipButton
@@ -24,6 +27,7 @@ Inherits:
 
 @Role
 name: VIP+
+color: #33fff5
 Zones: LoungeArea2
 Doors: VIPDoor2
 Buttons: VipButton2
@@ -32,6 +36,7 @@ Inherits: VIP
 
 @Role
 name: Partner
+color: #ffaa33
 Zones: PartnerArea
 Doors: PartnerDoor
 Buttons: PartnerButton
@@ -40,6 +45,7 @@ Inherits: VIP+
 
 @Role
 name: Staff
+color: #ff5233
 Zones: MainHall, StaffRoom
 Doors: MainDoor, StaffOnlyDoor
 Buttons: StaffPanel
@@ -48,6 +54,7 @@ Inherits: Partner
 
 @Role
 name: Owner
+color: #ff0000
 Zones: ControlRoom
 Doors: OwnerDoor
 Buttons: MasterControl, ResetWorldButton
