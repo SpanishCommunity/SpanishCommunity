@@ -15,7 +15,7 @@ role: Partner
 @User
 name: NightGuard
 date: 20/07/2025 00:00 -05:00
-days: -1
+days: 5
 heirs:
 role: Security
 
@@ -29,6 +29,6 @@ role: DJ
 @User
 name: WorldOwner
 date: 01/01/2025 00:00 -05:00
-days: -1
+days: 0
 heirs: BackupAdmin
 role: Owner
