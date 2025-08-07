@@ -1,34 +1,34 @@
 @User
 name: JohnDoe
-date: 25/07/2025 12:00 -5
+date: 25/07/2025 12:00 -05:00
 days: 30
 heirs: JaneFriend, CarlosBuddy
 role: VIP
 
 @User
 name: Tonny Savannah
-date: 21/07/2025 12:00 -5
-days: 0
+date: 21/07/2025 12:00 -05:00
+days: 1
 heirs:
 role: Partner
 
 @User
 name: NightGuard
-date: 20/07/2025 00:00 -5
-days: -1
+date: 20/07/2025 00:00 -05:00
+days: 5
 heirs:
 role: Security
 
 @User
 name: DJMax
-date: 24/07/2025 18:00 -5
+date: 24/07/2025 18:00 -05:00
 days: 7
 heirs:
 role: DJ
 
 @User
 name: WorldOwner
-date: 01/01/2025 00:00 -5
-days: -1
+date: 01/01/2025 00:00 -05:00
+days: 0
 heirs: BackupAdmin
 role: Owner
