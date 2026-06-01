@@ -1,7 +1,7 @@
 @PCMS
 version: 1
 isActive: false
-propagationDate: 01/06/2026 11:25 -05:00
+propagationDate: 01/06/2026 11:30 -05:00
 message:
-<b>Hola Mundo! </b><i>Esta e</i>s <b><u>una prueba</u></b>, Podemos colocar <color=#FF0000>C</color><color=#FFFF00>o</color><color=#80FF00>l</color><color=#00FFFF>o</color><color=#FF0080>r</color>, <size=136%>Tamaño</size>, <b><i><u>etc...</u></i></b>
+<b>Tengan un buen lunes.</b>
 @END_PCMS
