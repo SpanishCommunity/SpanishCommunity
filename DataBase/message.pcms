@@ -1,6 +1,6 @@
 @PCMS
 version: 1
-isActive: false
+isActive: true
 propagationDate: 01/06/2026 11:30 -05:00
 message:
 <b>Tengan un buen lunes.</b>
