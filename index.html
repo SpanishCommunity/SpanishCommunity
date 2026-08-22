@@ -1,40 +1,281 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Spanish Community</title>
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    background-color: #000000; /* Cambio de fondo a negro */
-    height: 100vh;
-    overflow: hidden;
-  }
-  .container {
-    text-align: center;
-    margin-top: 10vh; /* Reduje la margen superior para centrar mejor */
-    padding: 0 20px;
-    color: white; /* Cambio de color de texto a blanco */
-  }
-  .footer {
-    margin-top: 20px;
-    text-align: center;
-  }
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#171329">
+  <meta name="description" content="Spanish Community: una comunidad de VRChat abierta para todos. Descubre nuestros espacios, rangos, eventos y únete a Discord.">
+  <meta property="og:title" content="Spanish Community — VRChat Community">
+  <meta property="og:description" content="Una comunidad de VRChat abierta para todos. Conoce nuestros espacios, rangos y formas de participar.">
+  <meta property="og:image" content="assets/images/spanish-community-banner.png">
+  <meta property="og:type" content="website">
+  <title>Spanish Community | VRChat</title>
+  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
-<div class="container">
-  <h1>SPANISH COMMUNITY</h1>
-  <p>Bienvenido a Spanish Community, la comunidad hispanohablante más vibrante y acogedora en VRChat. Nos enorgullece ofrecer un espacio inclusivo y respetuoso donde los usuarios pueden compartir experiencias, hacer amigos y disfrutar de todo lo que VRChat tiene para ofrecer.</p>
-  <p>Nuestro objetivo es crear un ambiente amigable y divertido para todos, sin importar su origen o experiencia en VRChat. Aquí, encontrarás eventos emocionantes, sesiones de juego organizadas y una comunidad apasionada lista para recibirte con los brazos abiertos.</p>
-  <div class="footer">
-    <p>Síguenos en:</p>
-    <p>Discord: <a href="https://discord.gg/spanishcommunity">https://discord.gg/spanishclub</a></p>
-    <p>Patreon: <a href="https://www.patreon.com/spanishcommunity">https://www.patreon.com/spanishcommunity</a></p>
-    <p>&copy; 2024</p>
+  <div class="page-noise" aria-hidden="true"></div>
+  <header class="site-header" id="top">
+    <nav class="nav container" aria-label="Navegación principal">
+      <a class="brand" href="#inicio" aria-label="Spanish Community, inicio">
+        <img src="assets/images/spanish-community-logo.png" alt="Logo de Spanish Community">
+        <span>Spanish Community</span>
+      </a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu" aria-label="Abrir menú">
+        <span></span><span></span><span></span>
+      </button>
+
+      <div class="nav-menu" id="nav-menu">
+        <a href="#comunidad">Comunidad</a>
+        <a href="#experiencias">Experiencias</a>
+        <a href="#rangos">Rangos</a>
+        <a href="#galeria">Galería</a>
+        <a href="#unete">Únete</a>
+        <a href="https://vrchat.com/home/group/grp_5dc3fb61-f5bf-4d55-bb53-0d13b9750f0c" target="_blank" rel="noopener noreferrer">Grupo VRChat</a>
+        <a class="btn btn-small btn-discord" href="https://discord.gg/ka9fVfMaAA" target="_blank" rel="noopener noreferrer">Discord</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="container hero-grid">
+        <div class="hero-copy reveal">
+          <p class="eyebrow"><span class="status-dot"></span> Comunidad de VRChat</p>
+          <h1><span>Spanish Community</span></h1>
+          <h2 class="hero-tagline">Un lugar para conocer gente, compartir y vivir VRChat juntos.</h2>
+          <p class="hero-lead">Somos una comunidad abierta para personas de todo el mundo. Ven a conocer gente, participar en actividades, compartir momentos y disfrutar de VRChat acompañado de una comunidad que siempre tiene algo nuevo por descubrir.</p>
+          <div class="hero-actions hero-social-actions">
+            <a class="social-btn social-discord" href="https://discord.gg/ka9fVfMaAA" target="_blank" rel="noopener noreferrer"><img src="assets/images/icon-discord.png" alt="" aria-hidden="true"><span><small>Únete a</small>Discord</span><b>↗</b></a>
+            <a class="social-btn social-patreon" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer"><img src="assets/images/icon-patreon.png" alt="" aria-hidden="true"><span><small>Apóyanos en</small>Patreon</span><b>↗</b></a>
+            <a class="social-btn social-vrchat" href="https://vrchat.com/home/group/grp_5dc3fb61-f5bf-4d55-bb53-0d13b9750f0c" target="_blank" rel="noopener noreferrer"><img src="assets/images/icon-vrchat.png" alt="" aria-hidden="true"><span><small>Visita nuestro</small>Grupo VRChat</span><b>↗</b></a>
+          </div>
+          <div class="hero-pills" aria-label="Características de la comunidad">
+            <span>🌎 Abierta para todos</span>
+            <span>🎮 VRChat</span>
+            <span>✨ Rangos disponibles</span>
+            <span>💬 Comunidad activa</span>
+          </div>
+        </div>
+
+        <div class="hero-logo-card reveal" aria-label="Identidad visual de Spanish Community">
+          <div class="glow-orb glow-a"></div>
+          <div class="glow-orb glow-b"></div>
+          <img src="assets/images/spanish-community-logo.png" alt="Spanish Community">
+        </div>
+      </div>
+      <a class="scroll-cue" href="#comunidad" aria-label="Bajar a la siguiente sección"><span></span></a>
+    </section>
+
+    <section class="section intro" id="comunidad">
+      <div class="container">
+        <div class="section-heading centered reveal">
+          <p class="eyebrow">Nuestra comunidad</p>
+          <h2>Un punto de encuentro para vivir VRChat acompañado.</h2>
+          <p>Spanish Community nació como un espacio social en español y hoy está abierta a personas de cualquier país. Nuestro objetivo es crear un lugar al que puedas volver: conocer gente, relajarte, compartir contenido, participar en actividades y formar parte de una comunidad con identidad propia.</p>
+        </div>
+
+        <div class="community-showcase reveal">
+          <div class="community-copy-panel">
+            <span class="community-kicker">Más que un mundo</span>
+            <h3>Una comunidad que conecta espacios, personas y experiencias.</h3>
+            <p>Tenemos zonas sociales, entretenimiento, actividades, rangos con ventajas dentro del mundo y canales oficiales donde puedes mantenerte conectado incluso cuando no estás en VRChat.</p>
+            <div class="community-stats">
+              <div><strong>Global</strong><span>Personas de cualquier país</span></div>
+              <div><strong>Social</strong><span>Conoce y comparte con otros</span></div>
+              <div><strong>Activa</strong><span>Discord, Patreon y VRChat</span></div>
+            </div>
+          </div>
+          <div class="community-photo"><img src="assets/images/gallery-amores.webp" alt="Zona principal de Spanish Community" loading="lazy"></div>
+        </div>
+
+        <div class="feature-grid community-features">
+          <article class="feature-card reveal"><div class="feature-icon">🌐</div><h3>Abierta al mundo</h3><p>El idioma nos une, pero no nos limita. La comunidad está abierta a cualquier persona que quiera compartir, conversar y disfrutar de VRChat.</p></article>
+          <article class="feature-card reveal"><div class="feature-icon">🤝</div><h3>Conexión real</h3><p>Queremos que entrar al mundo se sienta como llegar a un punto de encuentro: lugares para conversar, mirar contenido, relajarte o conocer gente nueva.</p></article>
+          <article class="feature-card reveal"><div class="feature-icon">✨</div><h3>Una experiencia que crece</h3><p>Los rangos ayudan a sostener el proyecto y desbloquean beneficios dentro del mundo, desde vuelo y herramientas hasta personalización, publicidad y espacios propios.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section experience" id="experiencias">
+      <div class="container split-layout">
+        <div class="split-copy reveal">
+          <p class="eyebrow">Dentro de Spanish Community</p>
+          <h2>Siempre hay un rincón para hacer algo distinto.</h2>
+          <p>Nuestros espacios combinan zonas sociales, áreas para relajarse y lugares donde la comunidad puede reunirse alrededor de una actividad. La idea es sencilla: entrar y tener motivos para quedarse un rato más.</p>
+          <div class="mini-features">
+            <div><span>📺</span><strong>Watch parties</strong><small>Comparte videos y momentos con otros usuarios.</small></div>
+            <div><span>🌴</span><strong>Zonas para relajarse</strong><small>Ambientes tranquilos para conversar y pasar el rato.</small></div>
+            <div><span>🎉</span><strong>Momentos sociales</strong><small>Espacios pensados para encuentros, actividades y comunidad.</small></div>
+          </div>
+        </div>
+        <div class="media-stack reveal">
+          <figure class="media-card media-large">
+            <img src="assets/images/gallery-watch-party.webp" alt="Zona social de Spanish Community con pantalla para ver contenido" loading="lazy">
+          </figure>
+          <figure class="media-card media-float">
+            <img src="assets/images/gallery-beach.webp" alt="Avatar relajándose en una zona de playa" loading="lazy">
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section ranks" id="rangos">
+      <div class="container">
+        <div class="section-heading centered reveal ranks-heading">
+          <p class="eyebrow">Rangos & apoyo</p>
+          <h2>Elige cómo quieres formar parte de Spanish Community.</h2>
+          <p>Desde una donación para apoyar el proyecto hasta rangos con ventajas, personalización, publicidad o espacios propios dentro del mundo. Los precios mostrados corresponden a los niveles actuales indicados por la comunidad.</p>
+        </div>
+
+        <div class="tier-grid">
+          <article class="tier-card tier-donador reveal">
+            <div class="tier-top"><img src="assets/images/rank-donador.png" alt="Rango Donador"><div><span class="tier-family">Apoyo directo</span><h3>Donador</h3><p class="tier-price">Donación única</p></div></div>
+            <p>Una forma sencilla de apoyar directamente el crecimiento de Spanish Community.</p>
+            <h4>Qué incluye</h4><ul><li>Mención en el Spanish COM (Pizarra del Spawn)</li><li>Rango en Discord</li><li>Volar en el mundo</li></ul>
+            <a class="tier-button" href="https://paypal.me/SpanishCommunity" target="_blank" rel="noopener noreferrer">Donar por PayPal <span>↗</span></a>
+          </article>
+
+          <article class="tier-card reveal">
+            <div class="tier-top"><img src="assets/images/rank-vip.png" alt="Rango VIP"><div><span class="tier-family">VIP</span><h3>VIP</h3><p class="tier-price">$7.99 <small>/ month</small></p></div></div>
+            <p>El nivel básico VIP para desbloquear las herramientas esenciales dentro de Spanish Community.</p>
+            <h4>Qué incluye</h4><ul><li>Rango en Discord</li><li>Eliminar publicidad desde el panel de control</li><li>Volar en el mundo</li><li>Insignia de tu rango</li><li>Usar Pistola de TP</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+
+          <article class="tier-card reveal">
+            <div class="tier-top"><img src="assets/images/rank-vip-elite.png" alt="Rango VIP Elite"><div><span class="tier-family">VIP · 2x1</span><h3>VIP - ELITE</h3><p class="tier-price">$9.99 <small>/ month</small></p></div></div>
+            <p>Perfecto para quienes buscan todas las mecánicas VIP, incluyendo vuelo, collares y herramientas sociales, sin los extras personalizados de VIP PRIME.</p>
+            <h4>Qué incluye</h4><ul><li>Rango en Discord</li><li>Sonido de VIP al ingresar</li><li>Volar en el mundo</li><li>Eliminar publicidad</li><li>Usar Collar de perro</li><li>Usar Pistola de TP</li><li>Insignia de tu rango</li><li>Cámaras Polaroid</li><li>Mención en la Pizarra del Spawn</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+
+          <article class="tier-card tier-featured reveal">
+            <div class="tier-badge">POPULAR · 2x1 💑</div>
+            <div class="tier-top"><img src="assets/images/rank-vip-prime.png" alt="Rango VIP Prime"><div><span class="tier-family">VIP</span><h3>VIP - PRIME</h3><p class="tier-price">$12.99 <small>/ month</small></p></div></div>
+            <p>Un nivel VIP más personalizado. Ideal para parejas: ambos pueden disfrutar de habilidades VIP+, insignia PRIME y sonidos personalizados al ingresar.</p>
+            <h4>Qué incluye</h4><ul><li>Rango en Discord</li><li>Volar en el mundo</li><li>Eliminar publicidad</li><li>Foto en el Spawn</li><li>Insignia de tu rango</li><li>Usar Pistola de TP</li><li>Usar Collar de perro</li><li>Cámaras Polaroid</li><li>Mención en la Pizarra del Spawn</li><li>Sonido custom al entrar</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+
+          <article class="tier-card reveal">
+            <div class="tier-top"><img src="assets/images/rank-partner.png" alt="Rango Partner"><div><span class="tier-family">Partner</span><h3>Partner</h3><p class="tier-price">$17.99 <small>/ month</small></p></div></div>
+            <p>Para personas o proyectos que quieran presencia publicitaria dentro de la zona de Partners. Máximo de 3 personas en el equipo.</p>
+            <h4>Qué incluye</h4><ul><li>Rango en Discord</li><li>Volar en el mundo</li><li>Eliminar publicidad</li><li>Insignia de tu rango</li><li>Pistola de TP y Collar de perro</li><li>Sonido custom al entrar</li><li>Publicidad en Spanish COM</li><li>Sonido de VIP al ingresar</li><li>Cámaras Polaroid</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+
+          <article class="tier-card reveal">
+            <div class="tier-top"><img src="assets/images/rank-partner-elite.png" alt="Rango Partner Elite"><div><span class="tier-family">Partner</span><h3>PARTNER - ELITE</h3><p class="tier-price">$22.99 <small>/ month</small></p></div></div>
+            <p>Para marcas, servicios, creadores o redes sociales que quieran destacar con una presencia superior dentro del Spanish COM. Máximo de 4 personas.</p>
+            <h4>Qué incluye</h4><ul><li>Publicidad en Spanish COM</li><li>Insignia de tu rango</li><li>Rango en Discord</li><li>Volar en el mundo</li><li>Pistola de TP y Collar de perro</li><li>Eliminar publicidad</li><li>Sonido custom al entrar</li><li>Sonido de VIP al ingresar</li><li>Mención en la Pizarra del Spawn</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+
+          <article class="tier-card reveal">
+            <div class="tier-top"><img src="assets/images/rank-partner-prime.png" alt="Rango Partner Prime"><div><span class="tier-family">Partner</span><h3>Partner - PRIME</h3><p class="tier-price">$32.99 <small>/ month</small></p></div></div>
+            <p>El nivel Partner máximo: posibilidad de construir una propiedad o tener un stand dentro del mundo. Admisión limitada. Máximo de 6 personas con nivel Partner.</p>
+            <h4>Qué incluye</h4><ul><li>Rango en Discord</li><li>Volar en el mundo</li><li>Insignia de tu rango</li><li>Pistola de TP y Collar de perro</li><li>Cambiar SkyBox</li><li>Cambiar Agua</li><li>Cámaras Polaroid</li><li>Mención en la Pizarra del Spawn</li><li>Sonido custom al entrar</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+
+          <article class="tier-card tier-imperial reveal">
+            <div class="tier-badge">NIVEL IMPERIAL</div>
+            <div class="tier-top"><img src="assets/images/rank-imperial.png" alt="Rango Imperial"><div><span class="tier-family">Imperial</span><h3>IMPERIAL</h3><p class="tier-price">$55.99 <small>/ month</small></p></div></div>
+            <p>Uno de los niveles más exclusivos de apoyo de Spanish Community, con ventajas sociales y personalización destacada.</p>
+            <h4>Qué incluye</h4><ul><li>Rango en Discord</li><li>Foto en el Spawn</li><li>Volar en el mundo</li><li>Usar Collar de perro</li><li>Películas en Discord</li><li>Sonido custom al entrar</li><li>Eliminar publicidad</li></ul>
+            <a class="tier-button" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Ver en Patreon <span>↗</span></a>
+          </article>
+        </div>
+        <p class="tier-disclaimer reveal">Los beneficios, disponibilidad y condiciones pueden actualizarse. Para información vigente, revisa Patreon o consulta al equipo en Discord.</p>
+      </div>
+    </section>
+
+    <section class="section gallery-section" id="galeria">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Galería</p>
+          <h2>Algunos momentos de nuestra comunidad.</h2>
+          <p>Una pequeña muestra de los espacios y experiencias que forman parte de Spanish Community.</p>
+        </div>
+
+        <div class="gallery" data-gallery>
+          <button class="gallery-item wide reveal" type="button" data-full="assets/images/gallery-amores.webp" data-caption="Un rincón de nuestra comunidad">
+            <img src="assets/images/gallery-amores.webp" alt="Entrada decorada de una zona de Spanish Community" loading="lazy">
+            <span>Un rincón de la comunidad</span>
+          </button>
+          <button class="gallery-item reveal" type="button" data-full="assets/images/gallery-watch-party.webp" data-caption="Compartiendo contenido juntos">
+            <img src="assets/images/gallery-watch-party.webp" alt="Usuarios reunidos frente a una pantalla" loading="lazy">
+            <span>Compartiendo juntos</span>
+          </button>
+          <button class="gallery-item reveal" type="button" data-full="assets/images/gallery-ice-throne.webp" data-caption="Escenarios para explorar">
+            <img src="assets/images/gallery-ice-throne.webp" alt="Avatar sentado en un trono de hielo" loading="lazy">
+            <span>Escenarios para explorar</span>
+          </button>
+          <button class="gallery-item reveal" type="button" data-full="assets/images/gallery-trampoline.webp" data-caption="Momentos espontáneos en VRChat">
+            <img src="assets/images/gallery-trampoline.webp" alt="Avatar saltando en un trampolín" loading="lazy">
+            <span>Momentos espontáneos</span>
+          </button>
+          <button class="gallery-item reveal" type="button" data-full="assets/images/gallery-beach.webp" data-caption="Zonas para descansar">
+            <img src="assets/images/gallery-beach.webp" alt="Avatar descansando en una silla de playa" loading="lazy">
+            <span>Zonas para descansar</span>
+          </button>
+          <button class="gallery-item wide reveal" type="button" data-full="assets/images/gallery-community.webp" data-caption="Spanish Community en VRChat">
+            <img src="assets/images/gallery-community.webp" alt="Escena dentro de Spanish Community" loading="lazy">
+            <span>Spanish Community en VRChat</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section join" id="unete">
+      <div class="container join-card reveal">
+        <div class="join-art" aria-hidden="true">
+          <img src="assets/images/spanish-community-logo.png" alt="">
+        </div>
+        <div class="join-copy">
+          <p class="eyebrow">¿Quieres saber más?</p>
+          <h2>Conéctate con Spanish Community.</h2>
+          <p>Entra a Discord para mantenerte al día, revisa nuestros niveles en Patreon o únete directamente al grupo oficial de VRChat.</p>
+          <div class="join-actions join-socials">
+            <a class="social-btn social-discord" href="https://discord.gg/ka9fVfMaAA" target="_blank" rel="noopener noreferrer"><img src="assets/images/icon-discord.png" alt=""><span><small>Únete a</small>Discord</span></a>
+            <a class="social-btn social-patreon" href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer"><img src="assets/images/icon-patreon.png" alt=""><span><small>Apóyanos en</small>Patreon</span></a>
+            <a class="social-btn social-vrchat" href="https://vrchat.com/home/group/grp_5dc3fb61-f5bf-4d55-bb53-0d13b9750f0c" target="_blank" rel="noopener noreferrer"><img src="assets/images/icon-vrchat.png" alt=""><span><small>Nuestro</small>Grupo VRChat</span></a>
+          </div>
+          <p class="invite-code">Código de invitación: <strong>ka9fVfMaAA</strong></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <img src="assets/images/spanish-community-logo.png" alt="Spanish Community">
+        <div><strong>Spanish Community</strong><span>VRChat Community</span></div>
+      </div>
+      <div class="footer-links">
+        <a href="#comunidad">Comunidad</a>
+        <a href="#rangos">Rangos</a>
+        <a href="#galeria">Galería</a>
+        <a href="https://discord.gg/ka9fVfMaAA" target="_blank" rel="noopener noreferrer">Discord</a>
+        <a href="https://www.patreon.com/SpanishCommunity" target="_blank" rel="noopener noreferrer">Patreon</a>
+        <a href="https://vrchat.com/home/group/grp_5dc3fb61-f5bf-4d55-bb53-0d13b9750f0c" target="_blank" rel="noopener noreferrer">Grupo VRChat</a>
+        <a href="https://paypal.me/SpanishCommunity" target="_blank" rel="noopener noreferrer">PayPal</a>
+      </div>
+      <p class="footer-copy">© <span id="year"></span> Spanish Community. Sitio de presentación de la comunidad.</p>
+    </div>
+  </footer>
+
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Vista ampliada" hidden>
+    <button class="lightbox-close" type="button" aria-label="Cerrar">×</button>
+    <img src="" alt="">
+    <p></p>
   </div>
-</div>
+
+  <script src="assets/js/main.js" defer></script>
 </body>
 </html>
