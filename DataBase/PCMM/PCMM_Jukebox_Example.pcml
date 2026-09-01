@@ -1,4 +1,0 @@
-# PCMM Jukebox Library
-# S|id|url|title|artist|album|genre|year|duration|tags
-S|fur_elise|https://example.com/fur_elise.pcmm|Für Elise|Ludwig van Beethoven|Bagatelle No. 25|Classical|1810|03:10|piano,romantic
-S|demo_song|https://example.com/demo.pcmm|PCMM Demo|Parrot's Conch|PCMM|Chiptune|2026|02:00|demo,game

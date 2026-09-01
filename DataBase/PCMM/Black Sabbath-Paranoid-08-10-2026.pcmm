@@ -1,19 +1,21 @@
 H|PCMM|1.3
-M|TITLE|Ozzy Osbourne / Vocals
-M|ARTIST|
+M|TITLE|Black Sabbath-Paranoid-08-10-2026
+M|ARTIST|Black Sabbath
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|163
+M|TIMESIG|4/4
 M|SOURCE|Black Sabbath-Paranoid-08-10-2026.mid
 M|FORMAT|1
 M|TRACKS|6
 M|TPQ|15360
-T|0|Ozzy Osbourne / Vocals|87
-T|1|Tony Iommi / Gibson SG Custom / Solo Guitar|30
-T|2|Tony Iommi / Gibson SG Custom / Rhythm Guitar (LH)|30
-T|3|Tony Iommi / Gibson SG Custom / Rhythm Guitar (RH)|30
-T|4|Geezer Butler / Fender Precision Bass|33
-T|5|Bill Ward / Ludwig Grey Ripple / Drums|166
+T|0|Ozzy Osbourne / Vocals|87|Lead 8 (bass + lead)
+T|1|Tony Iommi / Gibson SG Custom / Solo Guitar|30|Distortion Guitar
+T|2|Tony Iommi / Gibson SG Custom / Rhythm Guitar (LH)|30|Distortion Guitar
+T|3|Tony Iommi / Gibson SG Custom / Rhythm Guitar (RH)|30|Distortion Guitar
+T|4|Geezer Butler / Fender Precision Bass|33|Electric Bass (finger)
+T|5|Bill Ward / Ludwig Grey Ripple / Drums|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

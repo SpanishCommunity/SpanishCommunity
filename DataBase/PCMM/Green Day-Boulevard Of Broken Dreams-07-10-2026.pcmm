@@ -1,22 +1,24 @@
 H|PCMM|1.3
-M|TITLE|Billie Joe Armstrong / Lead Vocals
-M|ARTIST|
+M|TITLE|Green Day-Boulevard Of Broken Dreams-07-10-2026
+M|ARTIST|Green Day
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|84
+M|TIMESIG|4/4
 M|SOURCE|Green Day-Boulevard Of Broken Dreams-07-10-2026.mid
 M|FORMAT|1
 M|TRACKS|9
 M|TPQ|15360
-T|0|Billie Joe Armstrong / Lead Vocals|71
-T|1|Mike Dirnt / Backing Vocals|71
-T|2|Billie Joe Armstrong / Gibson J-180 / Acoustic Guitar|25
-T|3|Billie Joe Armstrong / Gibson ES-335 / Lead Guitar|30
-T|4|Billie Joe Armstrong / 1956 Gibson Les Paul Jr. "Floyd" / Rhythm Guitar|30
-T|5|Billie Joe Armstrong / 1956 Gibson Les Paul Jr. "Floyd" / Tremolo Guitar|29
-T|6|Mike Dirnt / Fender Precision Bass|34
-T|7|Rob Cavallo / 1920s Upright Piano|1
-T|8|Tr� Cool / Ludwig Custom Kit / Drums|177
+T|0|Billie Joe Armstrong / Lead Vocals|71|Clarinet
+T|1|Mike Dirnt / Backing Vocals|71|Clarinet
+T|2|Billie Joe Armstrong / Gibson J-180 / Acoustic Guitar|25|Acoustic Guitar (steel)
+T|3|Billie Joe Armstrong / Gibson ES-335 / Lead Guitar|30|Distortion Guitar
+T|4|Billie Joe Armstrong / 1956 Gibson Les Paul Jr. "Floyd" / Rhythm Guitar|30|Distortion Guitar
+T|5|Billie Joe Armstrong / 1956 Gibson Les Paul Jr. "Floyd" / Tremolo Guitar|29|Overdriven Guitar
+T|6|Mike Dirnt / Fender Precision Bass|34|Electric Bass (pick)
+T|7|Rob Cavallo / 1920s Upright Piano|1|Bright Acoustic Piano
+T|8|Tr� Cool / Ludwig Custom Kit / Drums|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

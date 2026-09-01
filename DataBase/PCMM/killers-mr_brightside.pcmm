@@ -1,21 +1,24 @@
 H|PCMM|1.3
 M|TITLE|killers-mr_brightside
-M|ARTIST|
+M|ARTIST|Killers
 M|ALBUM|
 M|GENRE|
 M|YEAR|0
+M|BPM|145
+M|KEY|C
+M|TIMESIG|4/4
 M|SOURCE|killers-mr_brightside.mid
 M|FORMAT|1
 M|TRACKS|8
 M|TPQ|1024
-T|0|Track 1|-1
-T|1|Overdriven Guitar|29
-T|2|Electric Bass (finger)|33
-T|3|Standard Kit|164
-T|4|Lead 1 (square)|80
-T|5|Instrument5|81
-T|6|Instrument6|44
-T|7|Instrument7|30
+T|0|Track 1|-1|No Instrument
+T|1|Overdriven Guitar|29|Overdriven Guitar
+T|2|Electric Bass (finger)|33|Electric Bass (finger) + Electric Bass (pick)
+T|3|Standard Kit|128|Percussion
+T|4|Lead 1 (square)|80|Lead 1 (square)
+T|5|Instrument5|81|Lead 2 (sawtooth)
+T|6|Instrument6|44|Tremolo Strings
+T|7|Instrument7|30|Distortion Guitar
 C|0|1|0|10|64
 C|0|1|0|10|64
 C|0|1|0|7|112

@@ -1,23 +1,25 @@
 H|PCMM|1.3
-M|TITLE|Coros
-M|ARTIST|
+M|TITLE|Mägo de Oz-El Libro De Las Sombras-06-29-2020
+M|ARTIST|Mägo De Oz
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2020
+M|BPM|159
+M|TIMESIG|4/4
 M|SOURCE|Mägo de Oz-El Libro De Las Sombras-06-29-2020.mid
 M|FORMAT|1
 M|TRACKS|10
 M|TPQ|15360
-T|0|Coros|52
-T|1|Javier "Zeta" Dominguez|54
-T|2|Carlitos (1ra Guitarra)|30
-T|3|Frank (2da Guitarra)|30
-T|4|Armonias (3ra Guitarra)|30
-T|5|Josema Pizarro|73
-T|6|Mohamed|40
-T|7|Javier Diez|81
-T|8|Fernando Mainer|33
-T|9|Txus Di Fellatio|177
+T|0|Coros|52|Choir Aahs
+T|1|Javier "Zeta" Dominguez|54|Synth Voice
+T|2|Carlitos (1ra Guitarra)|30|Distortion Guitar
+T|3|Frank (2da Guitarra)|30|Distortion Guitar
+T|4|Armonias (3ra Guitarra)|30|Distortion Guitar
+T|5|Josema Pizarro|73|Flute
+T|6|Mohamed|40|Violin
+T|7|Javier Diez|81|Lead 2 (sawtooth)
+T|8|Fernando Mainer|33|Electric Bass (finger)
+T|9|Txus Di Fellatio|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

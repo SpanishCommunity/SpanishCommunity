@@ -1,22 +1,24 @@
 H|PCMM|1.3
-M|TITLE|Jose Andrea
-M|ARTIST|
+M|TITLE|Mägo de Oz-Hasta Que El Cuerpo Aguante-01-05-2025
+M|ARTIST|Mägo De Oz
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2025
+M|BPM|95
+M|TIMESIG|4/4
 M|SOURCE|Mägo de Oz-Hasta Que El Cuerpo Aguante-01-05-2025.mid
 M|FORMAT|1
 M|TRACKS|9
 M|TPQ|15360
-T|0|Jose Andrea|54
-T|1|Frank (Acustica)|25
-T|2|Frank (Electrica)|30
-T|3|Carlitos|30
-T|4|Mohamed|40
-T|5|Fernando Ponce De Leon|73
-T|6|Sergio "Kiskilla" Cisneros|21
-T|7|Salva Garcia|33
-T|8|Txus Di Fellatio|177
+T|0|Jose Andrea|54|Synth Voice
+T|1|Frank (Acustica)|25|Acoustic Guitar (steel)
+T|2|Frank (Electrica)|30|Distortion Guitar
+T|3|Carlitos|30|Distortion Guitar
+T|4|Mohamed|40|Violin
+T|5|Fernando Ponce De Leon|73|Flute
+T|6|Sergio "Kiskilla" Cisneros|21|Accordion
+T|7|Salva Garcia|33|Electric Bass (finger)
+T|8|Txus Di Fellatio|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

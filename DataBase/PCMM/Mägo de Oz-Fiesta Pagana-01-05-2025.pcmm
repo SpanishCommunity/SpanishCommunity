@@ -1,22 +1,24 @@
 H|PCMM|1.3
-M|TITLE|Jos� And�a (Voz)
-M|ARTIST|
+M|TITLE|Mägo de Oz-Fiesta Pagana-01-05-2025
+M|ARTIST|Mägo De Oz
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2025
+M|BPM|65
+M|TIMESIG|1/4
 M|SOURCE|Mägo de Oz-Fiesta Pagana-01-05-2025.mid
 M|FORMAT|1
 M|TRACKS|9
 M|TPQ|15360
-T|0|Jos� And�a (Voz)|54
-T|1|Carlitos (1ra Guitarra)|30
-T|2|Frank (2da Guitarra)|30
-T|3|Guitarra Extra|30
-T|4|Frank (Ac�stica)|25
-T|5|Fernando Ponce De Le�n (Flauta)|73
-T|6|Mohamed (Viol�n)|40
-T|7|Salva Garc�a (Bajo)|33
-T|8|Txus Di Fellatio (Bater�a)|164
+T|0|Jos� And�a (Voz)|54|Synth Voice
+T|1|Carlitos (1ra Guitarra)|30|Distortion Guitar
+T|2|Frank (2da Guitarra)|30|Distortion Guitar
+T|3|Guitarra Extra|30|Distortion Guitar
+T|4|Frank (Ac�stica)|25|Acoustic Guitar (steel)
+T|5|Fernando Ponce De Le�n (Flauta)|73|Flute
+T|6|Mohamed (Viol�n)|40|Violin
+T|7|Salva Garc�a (Bajo)|33|Electric Bass (finger)
+T|8|Txus Di Fellatio (Bater�a)|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

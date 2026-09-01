@@ -1,22 +1,24 @@
 H|PCMM|1.3
-M|TITLE|Read My Mind
-M|ARTIST|
+M|TITLE|killers-read_my_mind
+M|ARTIST|Killers
 M|ALBUM|
 M|GENRE|
 M|YEAR|0
+M|BPM|126
+M|TIMESIG|4/4
 M|SOURCE|killers-read_my_mind.mid
 M|FORMAT|1
 M|TRACKS|9
 M|TPQ|480
-T|0|Read My Mind|-1
-T|1|Brandon Flowers|95
-T|2|Dave Keuning|27
-T|3|Mark Stoermer|34
-T|4|Ronnie Vanucci|185
-T|5|Piano|0
-T|6|Dave (Overdub Guitar)|29
-T|7|Brandon (Delay Effect)|95
-T|8|Mark (Overdub Bass)|34
+T|0|Read My Mind|-1|No Instrument
+T|1|Brandon Flowers|95|Pad 8 (sweep) + FX 5 (brightness)
+T|2|Dave Keuning|27|Electric Guitar (clean) + Overdriven Guitar + Distortion Guitar
+T|3|Mark Stoermer|34|Electric Bass (pick)
+T|4|Ronnie Vanucci|128|Percussion
+T|5|Piano|0|Acoustic Grand Piano
+T|6|Dave (Overdub Guitar)|29|Overdriven Guitar
+T|7|Brandon (Delay Effect)|95|Pad 8 (sweep)
+T|8|Mark (Overdub Bass)|34|Electric Bass (pick)
 B|0|1|1|8192
 B|0|1|0|8192
 C|0|1|1|7|80

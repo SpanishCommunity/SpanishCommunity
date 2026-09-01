@@ -1,30 +1,32 @@
 H|PCMM|1.3
-M|TITLE|Michael Jackson / Lead Vocals
-M|ARTIST|
+M|TITLE|Michael Jackson-Billie Jean-08-21-2026
+M|ARTIST|Michael Jackson
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|117
+M|TIMESIG|4/4
 M|SOURCE|Michael Jackson-Billie Jean-08-21-2026.mid
 M|FORMAT|1
 M|TRACKS|17
 M|TPQ|15360
-T|0|Michael Jackson / Lead Vocals|40
-T|1|Michael Jackson / Backing Vocals|40
-T|2|David Williams / Ibanez Stratocaster / Rhythm Guitar 1|27
-T|3|David Williams / Ibanez Stratocaster / Rhythm Guitar 2|27
-T|4|Greg Phillinganes / Minimoog Model D Synthesizer / Moog Bass|39
-T|5|Greg Phillinganes / Synclavier II Synthesizer / Synth Bass|38
-T|6|Louis Johnson / Music Man StingRay / Electric Bass|33
-T|7|Bill Wolfer / Yamaha CS-80 / Synthesizer|50
-T|8|Greg Phillinganes / Fender Rhodes 73 "Sparkle Top" / Electric Piano|4
-T|9|Greg Smith / DK Synergy / Synthesizer|88
-T|10|Jerry Hey / String Arrangements 1|48
-T|11|Jerry Hey / String Arrangements 2|44
-T|12|Michael Boddicker / E-mu Emulator / Synthesizer|65
-T|13|Michael Jackson / Chords|54
-T|14|Tom Scott / Lyricon / Synth Brass|62
-T|15|Leon "Ndugu" Chancler / Percussion|197
-T|16|Leon "Ndugu" Chancler / Yamaha Recording Custom / Drums|170
+T|0|Michael Jackson / Lead Vocals|40|Violin
+T|1|Michael Jackson / Backing Vocals|40|Violin
+T|2|David Williams / Ibanez Stratocaster / Rhythm Guitar 1|27|Electric Guitar (clean)
+T|3|David Williams / Ibanez Stratocaster / Rhythm Guitar 2|27|Electric Guitar (clean)
+T|4|Greg Phillinganes / Minimoog Model D Synthesizer / Moog Bass|39|Synth Bass 2
+T|5|Greg Phillinganes / Synclavier II Synthesizer / Synth Bass|38|Synth Bass 1
+T|6|Louis Johnson / Music Man StingRay / Electric Bass|33|Electric Bass (finger)
+T|7|Bill Wolfer / Yamaha CS-80 / Synthesizer|50|SynthStrings 1
+T|8|Greg Phillinganes / Fender Rhodes 73 "Sparkle Top" / Electric Piano|4|Electric Piano 1
+T|9|Greg Smith / DK Synergy / Synthesizer|88|Pad 1 (new age)
+T|10|Jerry Hey / String Arrangements 1|48|String Ensemble 1
+T|11|Jerry Hey / String Arrangements 2|44|Tremolo Strings
+T|12|Michael Boddicker / E-mu Emulator / Synthesizer|65|Alto Sax
+T|13|Michael Jackson / Chords|54|Synth Voice
+T|14|Tom Scott / Lyricon / Synth Brass|62|SynthBrass 1
+T|15|Leon "Ndugu" Chancler / Percussion|128|Percussion
+T|16|Leon "Ndugu" Chancler / Yamaha Recording Custom / Drums|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

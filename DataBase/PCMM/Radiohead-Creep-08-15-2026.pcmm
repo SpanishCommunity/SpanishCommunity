@@ -1,20 +1,22 @@
 H|PCMM|1.3
-M|TITLE|Thom Yorke / Telefunken U47 / Vocals
-M|ARTIST|
+M|TITLE|Radiohead-Creep-08-15-2026
+M|ARTIST|Radiohead
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|93
+M|TIMESIG|4/4
 M|SOURCE|Radiohead-Creep-08-15-2026.mid
 M|FORMAT|1
 M|TRACKS|7
 M|TPQ|15360
-T|0|Thom Yorke / Telefunken U47 / Vocals|42
-T|1|Jonny Greenwood / Fender Telecaster / Lead Guitar|30
-T|2|Ed O'Brien / Rickenbacker 360 Mapleglo / Rhythm Guitar|27
-T|3|Thom Yorke / Fender Telecaster 60 Reissue / Rhythm Guitar|30
-T|4|Colin Greenwood / Ernie Ball Music Man Sterling / Bass|33
-T|5|Jonny Greenwood / Fender Rhodes Mark I 73 / Piano|1
-T|6|Philip Selway / DW Collector's Series / Drums|177
+T|0|Thom Yorke / Telefunken U47 / Vocals|42|Cello
+T|1|Jonny Greenwood / Fender Telecaster / Lead Guitar|30|Distortion Guitar
+T|2|Ed O'Brien / Rickenbacker 360 Mapleglo / Rhythm Guitar|27|Electric Guitar (clean)
+T|3|Thom Yorke / Fender Telecaster 60 Reissue / Rhythm Guitar|30|Distortion Guitar
+T|4|Colin Greenwood / Ernie Ball Music Man Sterling / Bass|33|Electric Bass (finger)
+T|5|Jonny Greenwood / Fender Rhodes Mark I 73 / Piano|1|Bright Acoustic Piano
+T|6|Philip Selway / DW Collector's Series / Drums|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

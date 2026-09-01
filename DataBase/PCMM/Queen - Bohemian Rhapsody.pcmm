@@ -1,27 +1,29 @@
 H|PCMM|1.3
 M|TITLE|Queen - Bohemian Rhapsody
-M|ARTIST|
+M|ARTIST|Queen
 M|ALBUM|
 M|GENRE|
 M|YEAR|0
+M|BPM|78
+M|TIMESIG|2/4
 M|SOURCE|Queen - Bohemian Rhapsody.mid
 M|FORMAT|1
 M|TRACKS|14
 M|TPQ|192
-T|0|Track 1|-1
-T|1|Track 2|60
-T|2|Track 3|65
-T|3|Track 4|0
-T|4|Track 5|33
-T|5|Track 6|48
-T|6|Track 7|52
-T|7|Track 8|62
-T|8|Track 9|69
-T|9|Track 10|30
-T|10|Track 11|30
-T|11|Track 12|55
-T|12|Track 13|163
-T|13|Track 14|47
+T|0|Track 1|-1|No Instrument
+T|1|Track 2|60|French Horn
+T|2|Track 3|65|Alto Sax
+T|3|Track 4|0|Acoustic Grand Piano
+T|4|Track 5|33|Electric Bass (finger)
+T|5|Track 6|48|String Ensemble 1
+T|6|Track 7|52|Choir Aahs
+T|7|Track 8|62|SynthBrass 1
+T|8|Track 9|69|English Horn
+T|9|Track 10|30|Distortion Guitar
+T|10|Track 11|30|Distortion Guitar
+T|11|Track 12|55|Orchestra Hit
+T|12|Track 13|128|Percussion
+T|13|Track 14|47|Timpani
 C|641|3|0|121|0
 C|649|4|1|121|0
 C|657|5|2|121|0

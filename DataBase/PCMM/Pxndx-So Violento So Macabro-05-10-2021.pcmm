@@ -1,18 +1,20 @@
 H|PCMM|1.3
-M|TITLE|Pepe
-M|ARTIST|
+M|TITLE|Pxndx-So Violento So Macabro-05-10-2021
+M|ARTIST|Pxndx
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2021
+M|BPM|86
+M|TIMESIG|4/4
 M|SOURCE|Pxndx-So Violento So Macabro-05-10-2021.mid
 M|FORMAT|1
 M|TRACKS|5
 M|TPQ|15360
-T|0|Pepe|30
-T|1|Arturo|30
-T|2|Arturo Clean|27
-T|3|Ricky|34
-T|4|Kross|170
+T|0|Pepe|30|Distortion Guitar
+T|1|Arturo|30|Distortion Guitar
+T|2|Arturo Clean|27|Electric Guitar (clean)
+T|3|Ricky|34|Electric Bass (pick)
+T|4|Kross|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

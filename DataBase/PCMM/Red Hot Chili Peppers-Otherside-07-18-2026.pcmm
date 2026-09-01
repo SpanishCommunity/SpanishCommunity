@@ -1,19 +1,21 @@
 H|PCMM|1.3
-M|TITLE|Anthony Kiedis (Vocals)
-M|ARTIST|
+M|TITLE|Red Hot Chili Peppers-Otherside-07-18-2026
+M|ARTIST|Red Hot Chili Peppers
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|117
+M|TIMESIG|4/4
 M|SOURCE|Red Hot Chili Peppers-Otherside-07-18-2026.mid
 M|FORMAT|1
 M|TRACKS|6
 M|TPQ|15360
-T|0|Anthony Kiedis (Vocals)|71
-T|1|John Frusciante (Backing Vocals)|73
-T|2|John Frusciante (Main)|27
-T|3|John Frusciante (Solo)|30
-T|4|Flea|33
-T|5|Chad Smith|174
+T|0|Anthony Kiedis (Vocals)|71|Clarinet
+T|1|John Frusciante (Backing Vocals)|73|Flute
+T|2|John Frusciante (Main)|27|Electric Guitar (clean)
+T|3|John Frusciante (Solo)|30|Distortion Guitar
+T|4|Flea|33|Electric Bass (finger)
+T|5|Chad Smith|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

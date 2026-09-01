@@ -1,27 +1,29 @@
 H|PCMM|1.3
-M|TITLE|James Hetfield / Lead Vocals
-M|ARTIST|
+M|TITLE|Metallica-Nothing Else Matters-08-18-2026
+M|ARTIST|Metallica
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|71
+M|TIMESIG|6/8
 M|SOURCE|Metallica-Nothing Else Matters-08-18-2026.mid
 M|FORMAT|1
 M|TRACKS|14
 M|TPQ|15360
-T|0|James Hetfield / Lead Vocals|67
-T|1|James Hetfield / Backing Vocals|71
-T|2|James Hetfield / Line 6 Variax 700 / Acoustic Guitar|25
-T|3|James Hetfield / Tom Anderson Pro Am Superstrat / Lead Guitar|27
-T|4|James Hetfield / Tom Anderson Pro Am Superstrat / Solo|30
-T|5|James Hetfield / Background Guitar 1|30
-T|6|James Hetfield / Background Guitar 2|30
-T|7|James Hetfield / Gretsch White Falcon / Overdubs|27
-T|8|Jason Newsted / Spector NS-2 / Bass|33
-T|9|Michael Kamen / Strings 1|48
-T|10|Micheal Kamen / Strings 2|48
-T|11|Micheal Kamen / Cello|42
-T|12|Micheal Kamen / Horn|60
-T|13|Lars Ulrich / Tama Artstar ll Kit / Drums|182
+T|0|James Hetfield / Lead Vocals|67|Baritone Sax
+T|1|James Hetfield / Backing Vocals|71|Clarinet
+T|2|James Hetfield / Line 6 Variax 700 / Acoustic Guitar|25|Acoustic Guitar (steel)
+T|3|James Hetfield / Tom Anderson Pro Am Superstrat / Lead Guitar|27|Electric Guitar (clean)
+T|4|James Hetfield / Tom Anderson Pro Am Superstrat / Solo|30|Distortion Guitar
+T|5|James Hetfield / Background Guitar 1|30|Distortion Guitar
+T|6|James Hetfield / Background Guitar 2|30|Distortion Guitar
+T|7|James Hetfield / Gretsch White Falcon / Overdubs|27|Electric Guitar (clean)
+T|8|Jason Newsted / Spector NS-2 / Bass|33|Electric Bass (finger) + Electric Bass (pick)
+T|9|Michael Kamen / Strings 1|48|String Ensemble 1
+T|10|Micheal Kamen / Strings 2|48|String Ensemble 1
+T|11|Micheal Kamen / Cello|42|Cello
+T|12|Micheal Kamen / Horn|60|French Horn
+T|13|Lars Ulrich / Tama Artstar ll Kit / Drums|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

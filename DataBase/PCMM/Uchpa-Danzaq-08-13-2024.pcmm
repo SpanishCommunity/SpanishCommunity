@@ -1,17 +1,19 @@
 H|PCMM|1.3
 M|TITLE|Uchpa-Danzaq-08-13-2024
-M|ARTIST|
+M|ARTIST|Uchpa
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2024
+M|BPM|126
+M|TIMESIG|4/4
 M|SOURCE|Uchpa-Danzaq-08-13-2024.mid
 M|FORMAT|1
 M|TRACKS|4
 M|TPQ|16384
-T|0|Track 1|164
-T|1|Track 2|33
-T|2|Track 3|30
-T|3|Track 4|30
+T|0|Track 1|128|Percussion
+T|1|Track 2|33|Electric Bass (finger)
+T|2|Track 3|30|Distortion Guitar
+T|3|Track 4|30|Distortion Guitar
 C|0|0|9|1|0
 B|0|0|9|8192
 B|0|0|9|8192

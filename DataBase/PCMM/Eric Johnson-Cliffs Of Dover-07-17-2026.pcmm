@@ -1,16 +1,18 @@
 H|PCMM|1.3
-M|TITLE|Eric Johnson / 1954 Fender Stratocaster
-M|ARTIST|
+M|TITLE|Eric Johnson-Cliffs Of Dover-07-17-2026
+M|ARTIST|Eric Johnson
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|136
+M|TIMESIG|4/4
 M|SOURCE|Eric Johnson-Cliffs Of Dover-07-17-2026.mid
 M|FORMAT|1
 M|TRACKS|3
 M|TPQ|15360
-T|0|Eric Johnson / 1954 Fender Stratocaster|29
-T|1|Kyle Brock|33
-T|2|Tommy Taylor|166
+T|0|Eric Johnson / 1954 Fender Stratocaster|29|Overdriven Guitar
+T|1|Kyle Brock|33|Electric Bass (finger)
+T|2|Tommy Taylor|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

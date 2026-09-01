@@ -1,19 +1,21 @@
 H|PCMM|1.3
-M|TITLE|Walter Giardino
-M|ARTIST|
+M|TITLE|Rata Blanca-La Leyenda Del Hada Y El Mago-07-19-2026
+M|ARTIST|Rata Blanca
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|150
+M|TIMESIG|4/4
 M|SOURCE|Rata Blanca-La Leyenda Del Hada Y El Mago-07-19-2026.mid
 M|FORMAT|1
 M|TRACKS|6
 M|TPQ|15360
-T|0|Walter Giardino|30
-T|1|Sergio Berdichevsky|30
-T|2|Guillermo S�nchez|33
-T|3|Adri�n Barilari|66
-T|4|Hugo Bistolfi|48
-T|5|Gustavo Rowek|166
+T|0|Walter Giardino|30|Distortion Guitar
+T|1|Sergio Berdichevsky|30|Distortion Guitar
+T|2|Guillermo S�nchez|33|Electric Bass (finger)
+T|3|Adri�n Barilari|66|Tenor Sax
+T|4|Hugo Bistolfi|48|String Ensemble 1
+T|5|Gustavo Rowek|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

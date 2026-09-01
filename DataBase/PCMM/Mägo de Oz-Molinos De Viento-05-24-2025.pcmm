@@ -1,20 +1,22 @@
 H|PCMM|1.3
-M|TITLE|Carlitos
-M|ARTIST|
+M|TITLE|Mägo de Oz-Molinos De Viento-05-24-2025
+M|ARTIST|Mägo De Oz
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2025
+M|BPM|137
+M|TIMESIG|1/4
 M|SOURCE|Mägo de Oz-Molinos De Viento-05-24-2025.mid
 M|FORMAT|1
 M|TRACKS|7
 M|TPQ|15360
-T|0|Carlitos|30
-T|1|Frank|30
-T|2|Salva|33
-T|3|Mohamed|40
-T|4|Carlitos|25
-T|5|Frank|25
-T|6|Txus|177
+T|0|Carlitos|30|Distortion Guitar
+T|1|Frank|30|Distortion Guitar
+T|2|Salva|33|Electric Bass (finger)
+T|3|Mohamed|40|Violin
+T|4|Carlitos|25|Acoustic Guitar (steel)
+T|5|Frank|25|Acoustic Guitar (steel)
+T|6|Txus|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

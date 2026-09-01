@@ -1,29 +1,31 @@
 H|PCMM|1.3
-M|TITLE|David Jolicoeur (Trugoy) & Vincent Lamont Mason Jr. (Maseo) / Verse 2-3 Vocals (Special Guest)
-M|ARTIST|
+M|TITLE|Gorillaz, De La Soul-Feel Good Inc.-07-05-2026
+M|ARTIST|Gorillaz, De La Soul
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|140
+M|TIMESIG|4/4
 M|SOURCE|Gorillaz, De La Soul-Feel Good Inc.-07-05-2026.mid
 M|FORMAT|1
 M|TRACKS|16
 M|TPQ|15360
-T|0|David Jolicoeur (Trugoy) & Vincent Lamont Mason Jr. (Maseo) / Verse 2-3 Vocals (Special Guest)|57
-T|1|Stuart "2D" Pot / Harmony Voices|64
-T|2|Stuart "2D" Pot / Overall Vocals|74
-T|3|Stuart "2D" Pot / Scatting & High-Pitched Overall Vocals|78
-T|4|Stuart "2D" Pot / Scatting & High-Pitched Overall Vocals|78
-T|5|Noodle / Acoustic Guitar #1|25
-T|6|Noodle / Acoustic Guitar #2|24
-T|7|Noodle / Electric Guitar (Jazz)|26
-T|8|Murdoc Faust Niccals / Jazz Bass (Irl) / "Flying-V" Electric-Bass (Clip)|33
-T|9|Murdoc Faust Niccals / Over-dubbed Bass|34
-T|10|Stuart "2D" Pot / Synth - MIDI instrument = "Square"|80
-T|11|Stuart "2D" Pot / Synth - MIDI instrument = "Sweep"|95
-T|12|Stuart "2D" Pot / Synth - MIDI instrument = "Synth Brass 1"|62
-T|13|Stuart "2D" Pot / Synth - MIDI instrument = "Warm"|89
-T|14|Hand Claps|167
-T|15|Russel Hobbs / Drums|170
+T|0|David Jolicoeur (Trugoy) & Vincent Lamont Mason Jr. (Maseo) / Verse 2-3 Vocals (Special Guest)|57|Trombone
+T|1|Stuart "2D" Pot / Harmony Voices|64|Soprano Sax
+T|2|Stuart "2D" Pot / Overall Vocals|74|Recorder
+T|3|Stuart "2D" Pot / Scatting & High-Pitched Overall Vocals|78|Whistle
+T|4|Stuart "2D" Pot / Scatting & High-Pitched Overall Vocals|78|Whistle
+T|5|Noodle / Acoustic Guitar #1|25|Acoustic Guitar (steel)
+T|6|Noodle / Acoustic Guitar #2|24|Acoustic Guitar (nylon)
+T|7|Noodle / Electric Guitar (Jazz)|26|Electric Guitar (jazz)
+T|8|Murdoc Faust Niccals / Jazz Bass (Irl) / "Flying-V" Electric-Bass (Clip)|33|Electric Bass (finger)
+T|9|Murdoc Faust Niccals / Over-dubbed Bass|34|Electric Bass (pick)
+T|10|Stuart "2D" Pot / Synth - MIDI instrument = "Square"|80|Lead 1 (square)
+T|11|Stuart "2D" Pot / Synth - MIDI instrument = "Sweep"|95|Pad 8 (sweep)
+T|12|Stuart "2D" Pot / Synth - MIDI instrument = "Synth Brass 1"|62|SynthBrass 1
+T|13|Stuart "2D" Pot / Synth - MIDI instrument = "Warm"|89|Pad 2 (warm)
+T|14|Hand Claps|128|Percussion
+T|15|Russel Hobbs / Drums|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0

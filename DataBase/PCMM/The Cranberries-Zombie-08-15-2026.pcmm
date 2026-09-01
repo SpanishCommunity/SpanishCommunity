@@ -1,20 +1,22 @@
 H|PCMM|1.3
-M|TITLE|Dolores O'Riordan / Lead Vocals
-M|ARTIST|
+M|TITLE|The Cranberries-Zombie-08-15-2026
+M|ARTIST|The Cranberries
 M|ALBUM|
 M|GENRE|
-M|YEAR|0
+M|YEAR|2026
+M|BPM|72
+M|TIMESIG|4/4
 M|SOURCE|The Cranberries-Zombie-08-15-2026.mid
 M|FORMAT|1
 M|TRACKS|7
 M|TPQ|15360
-T|0|Dolores O'Riordan / Lead Vocals|64
-T|1|Dolores O'Riordan / Backing Vocals|64
-T|2|Noel Hogan / Fender Telecaster / Lead Guitar|27
-T|3|Dolores O'Riordan / Gibson ES-335 / Rhythm Guitar|26
-T|4|Mike Hogan / Wal Mk I / Bass|34
-T|5|Fergal Lawler / DW Collector Series Kit / Drums|174
-T|6|Fergal Lawler / Tambourine|182
+T|0|Dolores O'Riordan / Lead Vocals|64|Soprano Sax
+T|1|Dolores O'Riordan / Backing Vocals|64|Soprano Sax
+T|2|Noel Hogan / Fender Telecaster / Lead Guitar|27|Electric Guitar (clean) + Distortion Guitar
+T|3|Dolores O'Riordan / Gibson ES-335 / Rhythm Guitar|26|Electric Guitar (jazz) + Overdriven Guitar
+T|4|Mike Hogan / Wal Mk I / Bass|34|Electric Bass (pick)
+T|5|Fergal Lawler / DW Collector Series Kit / Drums|128|Percussion
+T|6|Fergal Lawler / Tambourine|128|Percussion
 C|0|0|0|1|0
 C|0|0|1|1|0
 C|0|0|2|1|0
