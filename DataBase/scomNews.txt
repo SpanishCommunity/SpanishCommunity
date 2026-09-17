@@ -1,1 +1,19 @@
-Bienvenidos a Spanish Community, aqui postearemos noticias sobre nuestra comunidad
+<size=110%><b><color=#FFFFFF>¡Bienvenidos a Spanish Community!</color></b></size>
+
+<color=#C8D6E5>¡Hola a todos! 👋
+Este será nuestro nuevo espacio de <b><color=#55DFFF>noticias y novedades</color></b>, donde estaremos publicando anuncios importantes, nuevas funciones, eventos, actualizaciones del mundo y mucho más.</color>
+
+<color=#FFD166><b>⭐ APOYA A LA COMUNIDAD</b></color>
+
+<color=#FFFFFF>Recuerda visitar nuestro <b><color=#FF5C8A>Patreon</color></b> si deseas obtener <b>rangos personalizados</b> y apoyar directamente el crecimiento de Spanish Community.</color>
+
+<color=#7CFFB2><b>🌎 DISFRUTA • COMPARTE • INVITA</b></color>
+
+<color=#C8D6E5>Esperamos que disfrutes de este mundo, conozcas gente nueva y pases grandes momentos con nosotros.</color>
+
+<color=#FFFFFF><b>¡No olvides invitar a tus amigos!</b> 💙
+Mientras más seamos, mejor será la experiencia.</color>
+
+<size=105%><b><color=#55DFFF>Gracias por formar parte de Spanish Community.</color></b></size>
+
+<i><color=#8A9BA8>Nos vemos dentro del mundo. ✨</color></i>
