@@ -1,3 +1,60 @@
+<size=32><b><color=#FFD54F>ACTUALIZACIÓN DE BENEFICIOS DE ROLES</color></b></size>
+<size=22><b><color=#FFFFFF>Y NUEVOS CAMBIOS</color></b></size>
+
+Hola a todos 👋
+
+Un saludo de parte del <b><color=#FFD54F>Staff de Spanish Community</color></b>. Durante los próximos días realizaremos algunos cambios en nuestro sistema de roles y en los beneficios disponibles para cada rango.
+
+<size=24><b><color=#FFB74D>CAMBIOS EN EL ROL DONADOR</color></b></size>
+
+El rol <b><color=#81D4FA>Donador</color></b> dejará de tener la habilidad de <b>volar</b>.
+
+A partir de esta actualización, la habilidad de vuelo será un beneficio exclusivo para los miembros con rango <b><color=#FFD54F>VIP</color></b> o superior.
+
+Los beneficios del rango <b><color=#81D4FA>Donador</color></b> serán:
+
+• <b>Doble salto</b>
+• <b>Mención en la tabla de roles</b>
+• <b>Insignia exclusiva de Donador</b>
+
+Los beneficios de <b><color=#FFD54F>VIP</color></b>, <b><color=#FFCA28>VIP Elite</color></b>, <b><color=#FF9800>VIP Prime</color></b> y rangos superiores se mantendrán sin cambios. El único cambio importante será que <b><color=#81D4FA>Donador</color></b> ya no contará con vuelo y tendrá <b>doble salto</b> en su lugar.
+
+
+<size=24><b><color=#81C784>NUEVO EDIFICIO HABITACIONAL</color></b></size>
+
+Durante los próximos días también comenzaremos a implementar un <b>nuevo edificio habitacional</b>. En este edificio podrás crear y personalizar <b>tu propia habitación</b> utilizando diferentes opciones de decoración y personalización.
+
+Entre las opciones disponibles estarán:
+
+• Video Players
+• Espejos
+• Camas
+• Decoraciones
+• Personalización del suelo
+• Personalización de paredes
+• Personalización del techo
+• Iluminación personalizada
+• Diferentes colores y estilos
+
+La idea es que cada miembro pueda crear un espacio mucho más personal dentro de <b><color=#FFD54F>Spanish Community</color></b>.
+
+
+<size=24><b><color=#EF5350>CAMBIOS EN LAS ISLAS</color></b></size>
+
+Con la llegada del nuevo sistema habitacional, las <b>islas privadas</b> pasarán a ser un beneficio exclusivo para los miembros con rango: <b><color=#E040FB>IMPERIAL</color></b>
+
+
+<size=24><b><color=#64B5F6>PRÓXIMAMENTE</color></b></size>
+
+Todos estos cambios comenzarán a implementarse durante los próximos días. Algunas funciones podrían aparecer progresivamente mientras terminamos de preparar y actualizar los diferentes sistemas.
+
+<b><color=#FFD54F>Más información muy pronto.</color></b>
+
+Gracias por formar parte de
+<size=25><b><color=#FFD54F>Spanish Community</color></b></size> ❤️
+
+----------------------------------------------------------------------------------------------------------------------------
+
 <size=110%><b><color=#FFFFFF>¡Bienvenidos a Spanish Community!</color></b></size>
 
 <color=#C8D6E5>¡Hola a todos! 👋
