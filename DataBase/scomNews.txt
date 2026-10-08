@@ -1,3 +1,69 @@
+# 📢 NUEVO SISTEMA DE HABITACIONES PRIVADAS
+
+<size=32><b><color=#FF5252>🚨 ¡ATENCIÓN, COMUNIDAD! 🚨</color></b></size>
+<size=25><b><color=#FFD54F>🏠 ¡CONSTRUYE TU PROPIO HOGAR!</color></b></size>
+
+¡Saludos a todos! 👋
+
+De parte del <b><color=#FFD54F>Staff de Spanish Community</color></b>, nos complace presentarles nuestro nuevo <b><color=#81D4FA>SISTEMA DE CONSTRUCCIÓN DE HABITACIONES PRIVADAS</color></b>. 🎉
+
+¡Ahora podrás tener tu propio espacio dentro de Spanish Community, completamente personalizable y diseñado a tu gusto!
+
+<size=24><b><color=#81C784>🎁 ¡GRATIS PARA TODOS!</color></b></size>
+
+¡Así es! <b><color=#7CFFB2>Todos los miembros podrán acceder a este sistema SIN COSTO ALGUNO.</color></b>
+
+No necesitas tener un rango especial para comenzar. Podrás construir, decorar y personalizar tu habitación como siempre la imaginaste. 🏡✨
+
+<size=24><b><color=#64B5F6>🛠️ CONSTRUYE Y PERSONALIZA</color></b></size>
+
+Tendrás a tu disposición diferentes herramientas y opciones para darle vida a tu hogar:
+
+• 🎨 <b>Una amplia paleta de colores y materiales</b>
+• 🧱 <b>Personalización de suelos, paredes y techos</b>
+• 🛋️ <b>Muebles y objetos decorativos</b>
+• 🛏️ <b>Camas y accesorios para habitaciones</b>
+• 💡 <b>Iluminación y estilos personalizados</b>
+• 🪞 <b>Espejos y Video Players</b>
+• 🪴 <b>Una gran variedad de props y artículos para el hogar</b>
+
+¡Combina materiales, experimenta con diferentes estilos y crea un hogar completamente único! 🌈
+
+<size=24><b><color=#BA68C8>👥 ¡CONSTRUCCIÓN MULTIJUGADOR!</color></b></size>
+
+¡Construir es mucho más divertido con amigos!
+
+Nuestro sistema cuenta con <b><color=#E1BEE7>SOPORTE MULTIPLAYER</color></b>, permitiéndote decorar tu habitación junto a otras personas en tiempo real.
+
+Además, tendrás acceso a una <b><color=#FFD54F>LISTA BLANCA DE CONSTRUCCIÓN</color></b>.
+
+• ✅ Autoriza a tus amigos para construir contigo.
+• 🛠️ Decoren y organicen los muebles juntos.
+• 💬 Conversen mientras diseñan su habitación.
+• 🔐 Controla quién tiene permiso para modificar tu espacio.
+
+¡Invita a tus amigos y conviertan una simple habitación en un lugar increíble! ❤️
+
+<size=24><b><color=#FFD54F>👑 ¡MÁS BENEFICIOS PARA LOS VIP!</color></b></size>
+
+¿Quieres llevar la decoración de tu habitación al siguiente nivel?
+
+Los miembros <b><color=#FFD54F>VIP</color></b> tendrán acceso a un <b>catálogo mucho más amplio de objetos y decoraciones exclusivas</b>. ✨
+
+Disfruta de más opciones para personalizar tu espacio y crear ambientes todavía más originales.
+
+<b><color=#FFCA28>🌟 ¡ANÍMATE A FORMAR PARTE DE NUESTRA COMUNIDAD VIP!</color></b>
+
+Al convertirte en VIP, no solamente desbloquearás más opciones de decoración, sino que también disfrutarás de otros beneficios exclusivos dentro de Spanish Community.
+
+<size=23><b><color=#7CFFB2>🏠 ¡TU HABITACIÓN, TUS REGLAS, TU ESTILO!</color></b></size>
+
+Este nuevo sistema está pensado para que todos tengan un lugar propio donde relajarse, compartir con amigos y dejar volar su creatividad.
+
+<b><color=#FFD54F>¡Gracias por seguir apoyando el crecimiento de Spanish Community!</color></b> 💙
+
+------------------------------------------------------------
+
 <size=32><b><color=#FFD54F>ACTUALIZACIÓN DE BENEFICIOS DE ROLES</color></b></size>
 <size=22><b><color=#FFFFFF>Y NUEVOS CAMBIOS</color></b></size>
 
@@ -19,10 +85,9 @@ Los beneficios del rango <b><color=#81D4FA>Donador</color></b> serán:
 
 Los beneficios de <b><color=#FFD54F>VIP</color></b>, <b><color=#FFCA28>VIP Elite</color></b>, <b><color=#FF9800>VIP Prime</color></b> y rangos superiores se mantendrán sin cambios. El único cambio importante será que <b><color=#81D4FA>Donador</color></b> ya no contará con vuelo y tendrá <b>doble salto</b> en su lugar.
 
-
 <size=24><b><color=#81C784>NUEVO EDIFICIO HABITACIONAL</color></b></size>
 
-Durante los próximos días también comenzaremos a implementar un <b>nuevo edificio habitacional</b>. En este edificio podrás crear y personalizar <b>tu propia habitación</b> utilizando diferentes opciones de decoración y personalización.
+Con la llegada del nuevo edificio habitacional, los miembros podrán crear y personalizar <b>sus propias habitaciones</b> utilizando nuestro sistema de construcción y decoración.
 
 Entre las opciones disponibles estarán:
 
@@ -38,22 +103,20 @@ Entre las opciones disponibles estarán:
 
 La idea es que cada miembro pueda crear un espacio mucho más personal dentro de <b><color=#FFD54F>Spanish Community</color></b>.
 
-
 <size=24><b><color=#EF5350>CAMBIOS EN LAS ISLAS</color></b></size>
 
-Con la llegada del nuevo sistema habitacional, las <b>islas privadas</b> pasarán a ser un beneficio exclusivo para los miembros con rango: <b><color=#E040FB>IMPERIAL</color></b>
-
+Con la llegada del nuevo sistema habitacional, las <b>islas privadas</b> pasarán a ser un beneficio exclusivo para los miembros con rango: <b><color=#E040FB>IMPERIAL</color></b>.
 
 <size=24><b><color=#64B5F6>PRÓXIMAMENTE</color></b></size>
 
-Todos estos cambios comenzarán a implementarse durante los próximos días. Algunas funciones podrían aparecer progresivamente mientras terminamos de preparar y actualizar los diferentes sistemas.
+Los cambios en los roles y otros sistemas comenzarán a implementarse durante los próximos días. Algunas funciones podrían aparecer progresivamente mientras terminamos de preparar las diferentes actualizaciones.
 
 <b><color=#FFD54F>Más información muy pronto.</color></b>
 
 Gracias por formar parte de
 <size=25><b><color=#FFD54F>Spanish Community</color></b></size> ❤️
 
-----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------
 
 <size=110%><b><color=#FFFFFF>¡Bienvenidos a Spanish Community!</color></b></size>
 
