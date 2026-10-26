@@ -1,14 +1,14 @@
- <size=135%><color=#FF4545><b>⚠ ¡ANUNCIO MUY IMPORTANTE! ⚠</b></color></size>
+ <size=135%><color=#FF7777><b>⚠ ANUNCIO MUY IMPORTANTE ⚠</b></color></size>
 
 <color=#FFD166><b>GRAN ACTUALIZACIÓN DEL MUNDO</b></color>
 
 ¡Se vienen grandes cambios! Durante los próximos días realizaremos una importante renovación para ofrecer una experiencia más optimizada, accesible y entretenida para todos.
 
-<color=#FF7777><b>■ REDISEÑO Y OPTIMIZACIÓN DEL MAPA</b></color>
+<color=#FF9999><b>■ REDISEÑO Y OPTIMIZACIÓN DEL MAPA</b></color>
 
-El mundo reducirá su tamaño aproximadamente un <color=#FFCC55><b>40%</b></color>, eliminando áreas de poco uso para concentrar la actividad de la comunidad.
+El mundo reducirá su tamaño aproximadamente un <color=#FFD166><b>40%</b></color>, eliminando áreas de poco uso para concentrar la actividad de la comunidad.
 
-<color=#AAAAAA>Las siguientes zonas serán retiradas:</color>
+<color=#BBBBBB>Las siguientes zonas serán retiradas:</color>
 • Edificio de habitaciones privadas
 • Edificio Partner
 • Monte Japonés
@@ -16,14 +16,14 @@ El mundo reducirá su tamaño aproximadamente un <color=#FFCC55><b>40%</b></colo
 
 Estos espacios dejarán de existir en el nuevo diseño.
 
-<color=#6DDCFF><b>■ NUEVOS RANGOS Y PRECIOS</b></color>
+<color=#80CCFF><b>■ NUEVOS RANGOS Y PRECIOS</b></color>
 
 ¡Simplificamos nuestros rangos y reducimos los precios! Algunos niveles desaparecerán y serán reemplazados por una estructura más clara.
 
-<color=#77FFAA><size=115%><b>♪ MÚSICO / STREAMER</b></size></color>
-<color=#77FFAA><b>GRATUITOS</b></color>
+<color=#88DDAA><size=115%><b>♪ MÚSICO / STREAMER</b></size></color>
+<color=#88DDAA><b>GRATUITOS</b></color>
 
-<color=#64C8FF><size=120%><b>★ VIP — $3</b></size></color>
+<color=#70C5FF><size=120%><b>★ VIP — $3</b></size></color>
 • Habilidad de volar
 • Doble salto
 • Pinzas y correas
@@ -31,7 +31,7 @@ Estos espacios dejarán de existir en el nuevo diseño.
 • Pistola de teletransporte (TP)
 • DrinkCraft: personalización avanzada y nuevas copas
 
-<color=#A994FF><size=120%><b>★★ VIP+ — $5</b></size></color>
+<color=#B6A0FF><size=120%><b>★★ VIP+ — $5</b></size></color>
 <color=#BBBBBB>Incluye los beneficios de VIP, además de:</color>
 • 1 invitado con rango VIP
 • Fotografía personalizada dentro del mundo
@@ -39,7 +39,7 @@ Estos espacios dejarán de existir en el nuevo diseño.
 • Acceso al escenario con amplificación
 • Ocultación de la publicidad del mundo
 
-<color=#FFCA70><size=120%><b>◆ PARTNER — $13</b></size></color>
+<color=#FFCA80><size=120%><b>◆ PARTNER — $13</b></size></color>
 <color=#BBBBBB>Incluye los beneficios anteriores, además de:</color>
 • 2 invitados
 • DrinkCraft con personalización completa
@@ -47,34 +47,46 @@ Estos espacios dejarán de existir en el nuevo diseño.
 • Zona de descanso con interacciones, como preparar café
 • Publicidad desplazable dentro del mundo
 
-<color=#FF9C60><size=120%><b>◆◆ PARTNER+ — $18</b></size></color>
+<color=#FFAA88><size=120%><b>◆◆ PARTNER+ — $18</b></size></color>
 <color=#BBBBBB>Incluye los beneficios anteriores, además de:</color>
 • 3 invitados
 • Publicidad estática dentro del mundo
 
-<color=#FFDD55><size=125%><b>✦ DELUX — $59 ✦</b></size></color>
-<color=#FFB955><b>¡EXCLUSIVO! SOLO 4 CUPOS</b></color>
+<color=#FFE08A><size=125%><b>✦ DELUX — $59 ✦</b></size></color>
+<color=#FFD166><b>¡EXCLUSIVO! SOLO 4 CUPOS</b></color>
 
 • Hasta 6 invitados
 • Isla personalizada dentro del mundo
 • No incluye derecho a colocar publicidad
 
-<color=#75E5FF><b>■ ¿QUÉ PASARÁ CON LOS RANGOS ACTUALES?</b></color>
+<color=#FFAA88><b>■ ELIMINACIÓN DEL RANGO REALM MASTER</b></color>
+
+El rango <color=#FFD166><b>Realm Master</b></color> será eliminado como parte de la nueva actualización.
+
+<color=#80CCFF><b>¿Qué sucederá con las instancias de grupos?</b></color>
+
+• Se podrán seguir creando y abriendo instancias mediante grupos de VRChat.
+• El logotipo del grupo ya no se mostrará dentro del mundo.
+• La función de visualización de logotipos quedará deshabilitada temporalmente y no estará disponible por el momento.
+
+<color=#BBBBBB>Este cambio forma parte de la simplificación y optimización de las funciones del mundo.</color>
+
+<color=#80CCFF><b>■ ¿QUÉ PASARÁ CON LOS RANGOS ACTUALES?</b></color>
 
 <color=#FFFFFF><b>¡Los miembros actuales conservarán el valor de su rango!</b></color>
 
 Quienes ya tengan un rango de pago serán reasignados a uno de los nuevos niveles según el precio de su rango actual.
 
-<color=#FFD166>Ejemplo:</color>
-Si actualmente eres <b>VIP Elite</b>, pasarás a ser <color=#FFCA70><b>PARTNER</b></color> con la nueva estructura.
+<color=#FFD166><b>Ejemplo:</b></color>
+Si actualmente eres <b>VIP Elite</b>, pasarás a ser <color=#FFCA80><b>PARTNER</b></color> con la nueva estructura.
 
-<color=#FF7777><b>■ CAMBIOS EN LOS MÉTODOS DE PAGO</b></color>
+<color=#FF9999><b>■ CAMBIOS EN LOS MÉTODOS DE PAGO</b></color>
 
 La tienda del <b>VRChat Marketplace</b> ha dejado de funcionar para nuestro sistema y ya no será utilizada.
 
 A partir de esta actualización, los únicos métodos de pago disponibles serán:
 
-<color=#77FFAA><b>✓ PATREON
+<color=#88DDAA><b>✓ PATREON
 ✓ PAYPAL</b></color>
 
 <color=#FFD166><b>■ UNA NUEVA ETAPA PARA NUESTRA COMUNIDAD</b></color>
@@ -83,4 +95,4 @@ Todos estos cambios buscan mejorar el rendimiento, reunir a más jugadores en es
 
 ¡Gracias por formar parte de nuestra comunidad y acompañarnos en esta nueva etapa!
 
-<color=#77DFFF><size=110%><b>¡NOS VEMOS EN EL NUEVO MUNDO!</b></size></color>
+<color=#80CCFF><size=115%><b>¡NOS VEMOS EN EL NUEVO MUNDO!</b></size></color>
